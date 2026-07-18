@@ -1,0 +1,1001 @@
+transaction_id,date,customer_id,gender,age,product_category,quantity,price_per_unit,total_amount,year,month,month_name,day,day_name,quarter,is_weekend,age_group,month_name
+1,11/24/2023,CUST001,Male,34,Beauty,3,50,150,2023,11,November,24,Friday,4,FALSE,Adult,November
+2,2/27/2023,CUST002,Female,26,Clothing,2,500,1000,2023,2,February,27,Monday,1,FALSE,Adult,February
+3,1/13/2023,CUST003,Male,50,Electronics,1,30,30,2023,1,January,13,Friday,1,FALSE,Middle Age,January
+4,5/21/2023,CUST004,Male,37,Clothing,1,500,500,2023,5,May,21,Sunday,2,TRUE,Middle Age,May
+5,5/6/2023,CUST005,Male,30,Beauty,2,50,100,2023,5,May,6,Saturday,2,TRUE,Adult,May
+6,4/25/2023,CUST006,Female,45,Beauty,1,30,30,2023,4,April,25,Tuesday,2,FALSE,Middle Age,April
+7,3/13/2023,CUST007,Male,46,Clothing,2,25,50,2023,3,March,13,Monday,1,FALSE,Middle Age,March
+8,2/22/2023,CUST008,Male,30,Electronics,4,25,100,2023,2,February,22,Wednesday,1,FALSE,Adult,February
+9,12/13/2023,CUST009,Male,63,Electronics,2,300,600,2023,12,December,13,Wednesday,4,FALSE,Senior,December
+10,10/7/2023,CUST010,Female,52,Clothing,4,50,200,2023,10,October,7,Saturday,4,TRUE,Middle Age,October
+11,2/14/2023,CUST011,Male,23,Clothing,2,50,100,2023,2,February,14,Tuesday,1,FALSE,Young Adult,February
+12,10/30/2023,CUST012,Male,35,Beauty,3,25,75,2023,10,October,30,Monday,4,FALSE,Adult,October
+13,8/5/2023,CUST013,Male,22,Electronics,3,500,1500,2023,8,August,5,Saturday,3,TRUE,Young Adult,August
+14,1/17/2023,CUST014,Male,64,Clothing,4,30,120,2023,1,January,17,Tuesday,1,FALSE,Senior,January
+15,1/16/2023,CUST015,Female,42,Electronics,4,500,2000,2023,1,January,16,Monday,1,FALSE,Middle Age,January
+16,2/17/2023,CUST016,Male,19,Clothing,3,500,1500,2023,2,February,17,Friday,1,FALSE,Young Adult,February
+17,4/22/2023,CUST017,Female,27,Clothing,4,25,100,2023,4,April,22,Saturday,2,TRUE,Adult,April
+18,4/30/2023,CUST018,Female,47,Electronics,2,25,50,2023,4,April,30,Sunday,2,TRUE,Middle Age,April
+19,9/16/2023,CUST019,Female,62,Clothing,2,25,50,2023,9,September,16,Saturday,3,TRUE,Senior,September
+20,11/5/2023,CUST020,Male,22,Clothing,3,300,900,2023,11,November,5,Sunday,4,TRUE,Young Adult,November
+21,1/14/2023,CUST021,Female,50,Beauty,1,500,500,2023,1,January,14,Saturday,1,TRUE,Middle Age,January
+22,10/15/2023,CUST022,Male,18,Clothing,2,50,100,2023,10,October,15,Sunday,4,TRUE,Teen,October
+23,4/12/2023,CUST023,Female,35,Clothing,4,30,120,2023,4,April,12,Wednesday,2,FALSE,Adult,April
+24,11/29/2023,CUST024,Female,49,Clothing,1,300,300,2023,11,November,29,Wednesday,4,FALSE,Middle Age,November
+25,12/26/2023,CUST025,Female,64,Beauty,1,50,50,2023,12,December,26,Tuesday,4,FALSE,Senior,December
+26,10/7/2023,CUST026,Female,28,Electronics,2,500,1000,2023,10,October,7,Saturday,4,TRUE,Adult,October
+27,8/3/2023,CUST027,Female,38,Beauty,2,25,50,2023,8,August,3,Thursday,3,FALSE,Middle Age,August
+28,4/23/2023,CUST028,Female,43,Beauty,1,500,500,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+29,8/18/2023,CUST029,Female,42,Electronics,1,30,30,2023,8,August,18,Friday,3,FALSE,Middle Age,August
+30,10/29/2023,CUST030,Female,39,Beauty,3,300,900,2023,10,October,29,Sunday,4,TRUE,Middle Age,October
+31,5/23/2023,CUST031,Male,44,Electronics,4,300,1200,2023,5,May,23,Tuesday,2,FALSE,Middle Age,May
+32,1/4/2023,CUST032,Male,30,Beauty,3,30,90,2023,1,January,4,Wednesday,1,FALSE,Adult,January
+33,3/23/2023,CUST033,Female,50,Electronics,2,50,100,2023,3,March,23,Thursday,1,FALSE,Middle Age,March
+34,12/24/2023,CUST034,Female,51,Clothing,3,50,150,2023,12,December,24,Sunday,4,TRUE,Middle Age,December
+35,8/5/2023,CUST035,Female,58,Beauty,3,300,900,2023,8,August,5,Saturday,3,TRUE,Middle Age,August
+36,6/24/2023,CUST036,Male,52,Beauty,3,300,900,2023,6,June,24,Saturday,2,TRUE,Middle Age,June
+37,5/23/2023,CUST037,Female,18,Beauty,3,25,75,2023,5,May,23,Tuesday,2,FALSE,Teen,May
+38,3/21/2023,CUST038,Male,38,Beauty,4,50,200,2023,3,March,21,Tuesday,1,FALSE,Middle Age,March
+39,4/21/2023,CUST039,Male,23,Clothing,4,30,120,2023,4,April,21,Friday,2,FALSE,Young Adult,April
+40,6/22/2023,CUST040,Male,45,Beauty,1,50,50,2023,6,June,22,Thursday,2,FALSE,Middle Age,June
+41,2/22/2023,CUST041,Male,34,Clothing,2,25,50,2023,2,February,22,Wednesday,1,FALSE,Adult,February
+42,2/17/2023,CUST042,Male,22,Clothing,3,300,900,2023,2,February,17,Friday,1,FALSE,Young Adult,February
+43,7/14/2023,CUST043,Female,48,Clothing,1,300,300,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+44,2/19/2023,CUST044,Female,22,Clothing,1,25,25,2023,2,February,19,Sunday,1,TRUE,Young Adult,February
+45,7/3/2023,CUST045,Female,55,Electronics,1,30,30,2023,7,July,3,Monday,3,FALSE,Middle Age,July
+46,6/26/2023,CUST046,Female,20,Electronics,4,300,1200,2023,6,June,26,Monday,2,FALSE,Young Adult,June
+47,11/6/2023,CUST047,Female,40,Beauty,3,500,1500,2023,11,November,6,Monday,4,FALSE,Middle Age,November
+48,5/16/2023,CUST048,Male,54,Electronics,3,300,900,2023,5,May,16,Tuesday,2,FALSE,Middle Age,May
+49,1/23/2023,CUST049,Female,54,Electronics,2,500,1000,2023,1,January,23,Monday,1,FALSE,Middle Age,January
+50,8/24/2023,CUST050,Female,27,Beauty,3,25,75,2023,8,August,24,Thursday,3,FALSE,Adult,August
+51,10/2/2023,CUST051,Male,27,Beauty,3,25,75,2023,10,October,2,Monday,4,FALSE,Adult,October
+52,3/5/2023,CUST052,Female,36,Beauty,1,300,300,2023,3,March,5,Sunday,1,TRUE,Middle Age,March
+53,7/13/2023,CUST053,Male,34,Electronics,2,50,100,2023,7,July,13,Thursday,3,FALSE,Adult,July
+54,2/10/2023,CUST054,Female,38,Electronics,3,500,1500,2023,2,February,10,Friday,1,FALSE,Middle Age,February
+55,10/10/2023,CUST055,Male,31,Beauty,4,30,120,2023,10,October,10,Tuesday,4,FALSE,Adult,October
+56,5/31/2023,CUST056,Female,26,Clothing,3,300,900,2023,5,May,31,Wednesday,2,FALSE,Adult,May
+57,11/18/2023,CUST057,Female,63,Beauty,1,30,30,2023,11,November,18,Saturday,4,TRUE,Senior,November
+58,11/13/2023,CUST058,Male,18,Clothing,4,300,1200,2023,11,November,13,Monday,4,FALSE,Teen,November
+59,7/5/2023,CUST059,Male,62,Clothing,1,50,50,2023,7,July,5,Wednesday,3,FALSE,Senior,July
+60,10/23/2023,CUST060,Male,30,Beauty,3,50,150,2023,10,October,23,Monday,4,FALSE,Adult,October
+61,4/9/2023,CUST061,Male,21,Beauty,4,50,200,2023,4,April,9,Sunday,2,TRUE,Young Adult,April
+62,12/27/2023,CUST062,Male,18,Beauty,2,50,100,2023,12,December,27,Wednesday,4,FALSE,Teen,December
+63,2/5/2023,CUST063,Male,57,Electronics,2,25,50,2023,2,February,5,Sunday,1,TRUE,Middle Age,February
+64,1/24/2023,CUST064,Male,49,Clothing,4,25,100,2023,1,January,24,Tuesday,1,FALSE,Middle Age,January
+65,12/5/2023,CUST065,Male,51,Electronics,4,500,2000,2023,12,December,5,Tuesday,4,FALSE,Middle Age,December
+66,4/27/2023,CUST066,Female,45,Electronics,1,30,30,2023,4,April,27,Thursday,2,FALSE,Middle Age,April
+67,5/29/2023,CUST067,Female,48,Beauty,4,300,1200,2023,5,May,29,Monday,2,FALSE,Middle Age,May
+68,2/10/2023,CUST068,Male,25,Electronics,1,300,300,2023,2,February,10,Friday,1,FALSE,Young Adult,February
+69,4/30/2023,CUST069,Female,56,Beauty,3,25,75,2023,4,April,30,Sunday,2,TRUE,Middle Age,April
+70,2/21/2023,CUST070,Female,43,Clothing,1,300,300,2023,2,February,21,Tuesday,1,FALSE,Middle Age,February
+71,7/14/2023,CUST071,Female,51,Beauty,4,25,100,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+72,5/23/2023,CUST072,Female,20,Electronics,4,500,2000,2023,5,May,23,Tuesday,2,FALSE,Young Adult,May
+73,8/21/2023,CUST073,Male,29,Electronics,3,30,90,2023,8,August,21,Monday,3,FALSE,Adult,August
+74,11/22/2023,CUST074,Female,18,Beauty,4,500,2000,2023,11,November,22,Wednesday,4,FALSE,Teen,November
+75,7/6/2023,CUST075,Male,61,Beauty,4,50,200,2023,7,July,6,Thursday,3,FALSE,Senior,July
+76,3/25/2023,CUST076,Female,22,Electronics,2,50,100,2023,3,March,25,Saturday,1,TRUE,Young Adult,March
+77,7/9/2023,CUST077,Female,47,Clothing,2,50,100,2023,7,July,9,Sunday,3,TRUE,Middle Age,July
+78,7/1/2023,CUST078,Female,47,Clothing,3,500,1500,2023,7,July,1,Saturday,3,TRUE,Middle Age,July
+79,4/18/2023,CUST079,Male,34,Beauty,1,300,300,2023,4,April,18,Tuesday,2,FALSE,Adult,April
+80,12/10/2023,CUST080,Female,64,Clothing,2,30,60,2023,12,December,10,Sunday,4,TRUE,Senior,December
+81,5/17/2023,CUST081,Male,40,Electronics,1,50,50,2023,5,May,17,Wednesday,2,FALSE,Middle Age,May
+82,12/26/2023,CUST082,Female,32,Beauty,4,50,200,2023,12,December,26,Tuesday,4,FALSE,Adult,December
+83,12/16/2023,CUST083,Male,54,Electronics,2,50,100,2023,12,December,16,Saturday,4,TRUE,Middle Age,December
+84,11/28/2023,CUST084,Female,38,Electronics,3,30,90,2023,11,November,28,Tuesday,4,FALSE,Middle Age,November
+85,2/6/2023,CUST085,Male,31,Clothing,3,50,150,2023,2,February,6,Monday,1,FALSE,Adult,February
+86,11/8/2023,CUST086,Male,19,Beauty,3,30,90,2023,11,November,8,Wednesday,4,FALSE,Young Adult,November
+87,11/22/2023,CUST087,Female,28,Beauty,2,50,100,2023,11,November,22,Wednesday,4,FALSE,Adult,November
+88,3/29/2023,CUST088,Male,56,Clothing,1,500,500,2023,3,March,29,Wednesday,1,FALSE,Middle Age,March
+89,10/1/2023,CUST089,Female,55,Electronics,4,500,2000,2023,10,October,1,Sunday,4,TRUE,Middle Age,October
+90,5/6/2023,CUST090,Female,51,Electronics,1,30,30,2023,5,May,6,Saturday,2,TRUE,Middle Age,May
+91,3/25/2023,CUST091,Female,55,Electronics,1,500,500,2023,3,March,25,Saturday,1,TRUE,Middle Age,March
+92,8/25/2023,CUST092,Female,51,Electronics,4,30,120,2023,8,August,25,Friday,3,FALSE,Middle Age,August
+93,7/14/2023,CUST093,Female,35,Beauty,4,500,2000,2023,7,July,14,Friday,3,FALSE,Adult,July
+94,5/19/2023,CUST094,Female,47,Beauty,2,500,1000,2023,5,May,19,Friday,2,FALSE,Middle Age,May
+95,11/24/2023,CUST095,Female,32,Clothing,2,30,60,2023,11,November,24,Friday,4,FALSE,Adult,November
+96,12/19/2023,CUST096,Female,44,Clothing,2,300,600,2023,12,December,19,Tuesday,4,FALSE,Middle Age,December
+97,10/13/2023,CUST097,Female,51,Beauty,2,500,1000,2023,10,October,13,Friday,4,FALSE,Middle Age,October
+98,4/23/2023,CUST098,Female,55,Beauty,2,50,100,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+99,12/17/2023,CUST099,Female,50,Electronics,4,300,1200,2023,12,December,17,Sunday,4,TRUE,Middle Age,December
+100,6/16/2023,CUST100,Male,41,Electronics,1,30,30,2023,6,June,16,Friday,2,FALSE,Middle Age,June
+101,1/29/2023,CUST101,Male,32,Clothing,2,300,600,2023,1,January,29,Sunday,1,TRUE,Adult,January
+102,4/28/2023,CUST102,Female,47,Beauty,2,25,50,2023,4,April,28,Friday,2,FALSE,Middle Age,April
+103,1/17/2023,CUST103,Female,59,Clothing,1,25,25,2023,1,January,17,Tuesday,1,FALSE,Senior,January
+104,6/11/2023,CUST104,Female,34,Beauty,2,500,1000,2023,6,June,11,Sunday,2,TRUE,Adult,June
+105,7/25/2023,CUST105,Female,22,Electronics,1,500,500,2023,7,July,25,Tuesday,3,FALSE,Young Adult,July
+106,5/18/2023,CUST106,Female,46,Clothing,1,50,50,2023,5,May,18,Thursday,2,FALSE,Middle Age,May
+107,2/3/2023,CUST107,Female,21,Clothing,4,300,1200,2023,2,February,3,Friday,1,FALSE,Young Adult,February
+108,4/19/2023,CUST108,Female,27,Beauty,3,25,75,2023,4,April,19,Wednesday,2,FALSE,Adult,April
+109,10/18/2023,CUST109,Female,34,Electronics,4,500,2000,2023,10,October,18,Wednesday,4,FALSE,Adult,October
+110,6/11/2023,CUST110,Male,27,Clothing,3,300,900,2023,6,June,11,Sunday,2,TRUE,Adult,June
+111,4/19/2023,CUST111,Female,34,Electronics,3,500,1500,2023,4,April,19,Wednesday,2,FALSE,Adult,April
+112,12/2/2023,CUST112,Male,37,Clothing,3,500,1500,2023,12,December,2,Saturday,4,TRUE,Middle Age,December
+113,9/13/2023,CUST113,Female,41,Electronics,2,25,50,2023,9,September,13,Wednesday,3,FALSE,Middle Age,September
+114,7/22/2023,CUST114,Female,22,Beauty,4,25,100,2023,7,July,22,Saturday,3,TRUE,Young Adult,July
+115,11/26/2023,CUST115,Male,51,Clothing,3,500,1500,2023,11,November,26,Sunday,4,TRUE,Middle Age,November
+116,8/23/2023,CUST116,Female,23,Clothing,1,30,30,2023,8,August,23,Wednesday,3,FALSE,Young Adult,August
+117,3/15/2023,CUST117,Male,19,Electronics,2,500,1000,2023,3,March,15,Wednesday,1,FALSE,Young Adult,March
+118,5/16/2023,CUST118,Female,30,Electronics,4,500,2000,2023,5,May,16,Tuesday,2,FALSE,Adult,May
+119,3/13/2023,CUST119,Female,60,Clothing,3,50,150,2023,3,March,13,Monday,1,FALSE,Senior,March
+120,5/7/2023,CUST120,Male,60,Beauty,1,50,50,2023,5,May,7,Sunday,2,TRUE,Senior,May
+121,10/15/2023,CUST121,Female,28,Electronics,4,50,200,2023,10,October,15,Sunday,4,TRUE,Adult,October
+122,10/3/2023,CUST122,Male,64,Electronics,4,30,120,2023,10,October,3,Tuesday,4,FALSE,Senior,October
+123,5/15/2023,CUST123,Female,40,Electronics,2,30,60,2023,5,May,15,Monday,2,FALSE,Middle Age,May
+124,10/27/2023,CUST124,Male,33,Clothing,4,500,2000,2023,10,October,27,Friday,4,FALSE,Adult,October
+125,8/8/2023,CUST125,Male,48,Clothing,2,50,100,2023,8,August,8,Tuesday,3,FALSE,Middle Age,August
+126,10/26/2023,CUST126,Female,28,Clothing,3,30,90,2023,10,October,26,Thursday,4,FALSE,Adult,October
+127,7/24/2023,CUST127,Female,33,Clothing,2,25,50,2023,7,July,24,Monday,3,FALSE,Adult,July
+128,7/5/2023,CUST128,Male,25,Beauty,1,500,500,2023,7,July,5,Wednesday,3,FALSE,Young Adult,July
+129,4/23/2023,CUST129,Female,21,Beauty,2,300,600,2023,4,April,23,Sunday,2,TRUE,Young Adult,April
+130,3/12/2023,CUST130,Female,57,Clothing,1,500,500,2023,3,March,12,Sunday,1,TRUE,Middle Age,March
+131,9/18/2023,CUST131,Female,21,Beauty,2,300,600,2023,9,September,18,Monday,3,FALSE,Young Adult,September
+132,9/10/2023,CUST132,Male,42,Electronics,4,50,200,2023,9,September,10,Sunday,3,TRUE,Middle Age,September
+133,2/16/2023,CUST133,Male,20,Electronics,3,300,900,2023,2,February,16,Thursday,1,FALSE,Young Adult,February
+134,1/25/2023,CUST134,Male,49,Electronics,1,50,50,2023,1,January,25,Wednesday,1,FALSE,Middle Age,January
+135,2/26/2023,CUST135,Male,20,Clothing,2,25,50,2023,2,February,26,Sunday,1,TRUE,Young Adult,February
+136,3/20/2023,CUST136,Male,44,Electronics,2,300,600,2023,3,March,20,Monday,1,FALSE,Middle Age,March
+137,11/18/2023,CUST137,Male,46,Beauty,2,500,1000,2023,11,November,18,Saturday,4,TRUE,Middle Age,November
+138,3/23/2023,CUST138,Male,49,Clothing,4,50,200,2023,3,March,23,Thursday,1,FALSE,Middle Age,March
+139,12/15/2023,CUST139,Male,36,Beauty,4,500,2000,2023,12,December,15,Friday,4,FALSE,Middle Age,December
+140,8/5/2023,CUST140,Male,38,Electronics,1,30,30,2023,8,August,5,Saturday,3,TRUE,Middle Age,August
+141,11/2/2023,CUST141,Female,22,Electronics,1,50,50,2023,11,November,2,Thursday,4,FALSE,Young Adult,November
+142,2/2/2023,CUST142,Male,35,Electronics,4,300,1200,2023,2,February,2,Thursday,1,FALSE,Adult,February
+143,7/17/2023,CUST143,Female,45,Clothing,1,50,50,2023,7,July,17,Monday,3,FALSE,Middle Age,July
+144,7/15/2023,CUST144,Female,59,Beauty,3,500,1500,2023,7,July,15,Saturday,3,TRUE,Senior,July
+145,11/2/2023,CUST145,Female,39,Clothing,3,25,75,2023,11,November,2,Thursday,4,FALSE,Middle Age,November
+146,8/28/2023,CUST146,Male,38,Clothing,4,50,200,2023,8,August,28,Monday,3,FALSE,Middle Age,August
+147,9/28/2023,CUST147,Male,23,Electronics,1,300,300,2023,9,September,28,Thursday,3,FALSE,Young Adult,September
+148,5/9/2023,CUST148,Male,18,Clothing,2,30,60,2023,5,May,9,Tuesday,2,FALSE,Teen,May
+149,10/11/2023,CUST149,Male,22,Clothing,3,25,75,2023,10,October,11,Wednesday,4,FALSE,Young Adult,October
+150,1/6/2023,CUST150,Female,58,Electronics,4,30,120,2023,1,January,6,Friday,1,FALSE,Middle Age,January
+151,12/15/2023,CUST151,Male,29,Clothing,1,50,50,2023,12,December,15,Friday,4,FALSE,Adult,December
+152,2/28/2023,CUST152,Male,43,Electronics,4,500,2000,2023,2,February,28,Tuesday,1,FALSE,Middle Age,February
+153,12/16/2023,CUST153,Male,63,Electronics,2,500,1000,2023,12,December,16,Saturday,4,TRUE,Senior,December
+154,10/2/2023,CUST154,Male,51,Electronics,3,300,900,2023,10,October,2,Monday,4,FALSE,Middle Age,October
+155,5/17/2023,CUST155,Male,31,Electronics,4,500,2000,2023,5,May,17,Wednesday,2,FALSE,Adult,May
+156,11/25/2023,CUST156,Female,43,Clothing,4,25,100,2023,11,November,25,Saturday,4,TRUE,Middle Age,November
+157,6/24/2023,CUST157,Male,62,Electronics,4,500,2000,2023,6,June,24,Saturday,2,TRUE,Senior,June
+158,2/27/2023,CUST158,Female,44,Electronics,2,300,600,2023,2,February,27,Monday,1,FALSE,Middle Age,February
+159,5/31/2023,CUST159,Male,26,Clothing,4,50,200,2023,5,May,31,Wednesday,2,FALSE,Adult,May
+160,8/11/2023,CUST160,Female,43,Clothing,2,50,100,2023,8,August,11,Friday,3,FALSE,Middle Age,August
+161,3/22/2023,CUST161,Male,64,Beauty,2,500,1000,2023,3,March,22,Wednesday,1,FALSE,Senior,March
+162,8/21/2023,CUST162,Male,39,Clothing,2,30,60,2023,8,August,21,Monday,3,FALSE,Middle Age,August
+163,1/2/2023,CUST163,Female,64,Clothing,3,50,150,2023,1,January,2,Monday,1,FALSE,Senior,January
+164,5/15/2023,CUST164,Female,47,Beauty,3,500,1500,2023,5,May,15,Monday,2,FALSE,Middle Age,May
+165,9/14/2023,CUST165,Female,60,Clothing,4,300,1200,2023,9,September,14,Thursday,3,FALSE,Senior,September
+166,4/2/2023,CUST166,Male,34,Clothing,4,500,2000,2023,4,April,2,Sunday,2,TRUE,Adult,April
+167,9/17/2023,CUST167,Female,43,Clothing,3,50,150,2023,9,September,17,Sunday,3,TRUE,Middle Age,September
+168,2/24/2023,CUST168,Male,53,Clothing,1,300,300,2023,2,February,24,Friday,1,FALSE,Middle Age,February
+169,11/17/2023,CUST169,Male,18,Beauty,3,500,1500,2023,11,November,17,Friday,4,FALSE,Teen,November
+170,6/2/2023,CUST170,Female,25,Clothing,2,25,50,2023,6,June,2,Friday,2,FALSE,Young Adult,June
+171,11/24/2023,CUST171,Female,52,Clothing,3,300,900,2023,11,November,24,Friday,4,FALSE,Middle Age,November
+172,9/17/2023,CUST172,Male,32,Beauty,2,25,50,2023,9,September,17,Sunday,3,TRUE,Adult,September
+173,11/8/2023,CUST173,Male,64,Electronics,4,30,120,2023,11,November,8,Wednesday,4,FALSE,Senior,November
+174,4/12/2023,CUST174,Female,39,Beauty,1,300,300,2023,4,April,12,Wednesday,2,FALSE,Middle Age,April
+175,3/20/2023,CUST175,Female,31,Electronics,4,25,100,2023,3,March,20,Monday,1,FALSE,Adult,March
+176,7/11/2023,CUST176,Female,43,Beauty,2,50,100,2023,7,July,11,Tuesday,3,FALSE,Middle Age,July
+177,3/24/2023,CUST177,Male,45,Beauty,2,50,100,2023,3,March,24,Friday,1,FALSE,Middle Age,March
+178,10/4/2023,CUST178,Male,40,Clothing,2,30,60,2023,10,October,4,Wednesday,4,FALSE,Middle Age,October
+179,9/29/2023,CUST179,Male,31,Electronics,1,300,300,2023,9,September,29,Friday,3,FALSE,Adult,September
+180,1/1/2023,CUST180,Male,41,Clothing,3,300,900,2023,1,January,1,Sunday,1,TRUE,Middle Age,January
+181,11/3/2023,CUST181,Male,19,Electronics,4,300,1200,2023,11,November,3,Friday,4,FALSE,Young Adult,November
+182,6/15/2023,CUST182,Male,62,Beauty,4,30,120,2023,6,June,15,Thursday,2,FALSE,Senior,June
+183,9/8/2023,CUST183,Female,43,Beauty,3,300,900,2023,9,September,8,Friday,3,FALSE,Middle Age,September
+184,1/10/2023,CUST184,Male,31,Electronics,4,50,200,2023,1,January,10,Tuesday,1,FALSE,Adult,January
+185,2/27/2023,CUST185,Male,24,Clothing,1,25,25,2023,2,February,27,Monday,1,FALSE,Young Adult,February
+186,7/5/2023,CUST186,Male,20,Clothing,4,50,200,2023,7,July,5,Wednesday,3,FALSE,Young Adult,July
+187,6/7/2023,CUST187,Female,64,Clothing,2,50,100,2023,6,June,7,Wednesday,2,FALSE,Senior,June
+188,5/3/2023,CUST188,Male,40,Clothing,3,25,75,2023,5,May,3,Wednesday,2,FALSE,Middle Age,May
+189,1/30/2023,CUST189,Male,63,Beauty,1,50,50,2023,1,January,30,Monday,1,FALSE,Senior,January
+190,5/4/2023,CUST190,Female,60,Beauty,3,30,90,2023,5,May,4,Thursday,2,FALSE,Senior,May
+191,10/18/2023,CUST191,Male,64,Beauty,1,25,25,2023,10,October,18,Wednesday,4,FALSE,Senior,October
+192,2/10/2023,CUST192,Male,62,Beauty,2,50,100,2023,2,February,10,Friday,1,FALSE,Senior,February
+193,2/13/2023,CUST193,Male,35,Beauty,3,500,1500,2023,2,February,13,Monday,1,FALSE,Adult,February
+194,9/6/2023,CUST194,Male,55,Clothing,4,50,200,2023,9,September,6,Wednesday,3,FALSE,Middle Age,September
+195,2/5/2023,CUST195,Male,52,Clothing,1,30,30,2023,2,February,5,Sunday,1,TRUE,Middle Age,February
+196,9/30/2023,CUST196,Female,32,Clothing,3,300,900,2023,9,September,30,Saturday,3,TRUE,Adult,September
+197,3/6/2023,CUST197,Female,42,Clothing,4,50,200,2023,3,March,6,Monday,1,FALSE,Middle Age,March
+198,3/7/2023,CUST198,Female,54,Beauty,3,300,900,2023,3,March,7,Tuesday,1,FALSE,Middle Age,March
+199,12/4/2023,CUST199,Male,45,Beauty,3,500,1500,2023,12,December,4,Monday,4,FALSE,Middle Age,December
+200,9/1/2023,CUST200,Male,27,Beauty,3,50,150,2023,9,September,1,Friday,3,FALSE,Adult,September
+201,10/9/2023,CUST201,Male,56,Electronics,1,25,25,2023,10,October,9,Monday,4,FALSE,Middle Age,October
+202,3/26/2023,CUST202,Female,34,Clothing,4,300,1200,2023,3,March,26,Sunday,1,TRUE,Adult,March
+203,5/16/2023,CUST203,Male,56,Clothing,2,500,1000,2023,5,May,16,Tuesday,2,FALSE,Middle Age,May
+204,9/28/2023,CUST204,Male,39,Beauty,1,25,25,2023,9,September,28,Thursday,3,FALSE,Middle Age,September
+205,11/7/2023,CUST205,Female,43,Clothing,1,25,25,2023,11,November,7,Tuesday,4,FALSE,Middle Age,November
+206,8/5/2023,CUST206,Male,61,Clothing,1,25,25,2023,8,August,5,Saturday,3,TRUE,Senior,August
+207,4/19/2023,CUST207,Female,42,Beauty,2,25,50,2023,4,April,19,Wednesday,2,FALSE,Middle Age,April
+208,10/4/2023,CUST208,Female,34,Electronics,4,50,200,2023,10,October,4,Wednesday,4,FALSE,Adult,October
+209,12/20/2023,CUST209,Female,30,Electronics,4,50,200,2023,12,December,20,Wednesday,4,FALSE,Adult,December
+210,4/13/2023,CUST210,Male,37,Electronics,4,50,200,2023,4,April,13,Thursday,2,FALSE,Middle Age,April
+211,1/1/2024,CUST211,Male,42,Beauty,3,500,1500,2024,1,January,1,Monday,1,FALSE,Middle Age,January
+212,6/9/2023,CUST212,Male,21,Clothing,3,500,1500,2023,6,June,9,Friday,2,FALSE,Young Adult,June
+213,7/24/2023,CUST213,Male,27,Beauty,3,500,1500,2023,7,July,24,Monday,3,FALSE,Adult,July
+214,12/10/2023,CUST214,Male,20,Beauty,2,30,60,2023,12,December,10,Sunday,4,TRUE,Young Adult,December
+215,11/29/2023,CUST215,Male,58,Clothing,3,500,1500,2023,11,November,29,Wednesday,4,FALSE,Middle Age,November
+216,7/11/2023,CUST216,Male,62,Electronics,2,50,100,2023,7,July,11,Tuesday,3,FALSE,Senior,July
+217,8/13/2023,CUST217,Female,35,Electronics,4,50,200,2023,8,August,13,Sunday,3,TRUE,Adult,August
+218,9/22/2023,CUST218,Male,64,Beauty,3,30,90,2023,9,September,22,Friday,3,FALSE,Senior,September
+219,8/20/2023,CUST219,Female,53,Electronics,3,30,90,2023,8,August,20,Sunday,3,TRUE,Middle Age,August
+220,3/3/2023,CUST220,Male,64,Beauty,1,500,500,2023,3,March,3,Friday,1,FALSE,Senior,March
+221,5/7/2023,CUST221,Male,39,Beauty,2,300,600,2023,5,May,7,Sunday,2,TRUE,Middle Age,May
+222,4/26/2023,CUST222,Male,51,Clothing,4,30,120,2023,4,April,26,Wednesday,2,FALSE,Middle Age,April
+223,2/2/2023,CUST223,Female,64,Clothing,1,25,25,2023,2,February,2,Thursday,1,FALSE,Senior,February
+224,6/23/2023,CUST224,Female,25,Clothing,1,50,50,2023,6,June,23,Friday,2,FALSE,Young Adult,June
+225,1/11/2023,CUST225,Female,57,Beauty,4,25,100,2023,1,January,11,Wednesday,1,FALSE,Middle Age,January
+226,10/29/2023,CUST226,Female,61,Clothing,1,50,50,2023,10,October,29,Sunday,4,TRUE,Senior,October
+227,10/11/2023,CUST227,Male,36,Electronics,2,50,100,2023,10,October,11,Wednesday,4,FALSE,Middle Age,October
+228,4/28/2023,CUST228,Female,59,Electronics,2,30,60,2023,4,April,28,Friday,2,FALSE,Senior,April
+229,10/29/2023,CUST229,Male,58,Beauty,3,30,90,2023,10,October,29,Sunday,4,TRUE,Middle Age,October
+230,4/23/2023,CUST230,Male,54,Beauty,1,25,25,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+231,1/4/2023,CUST231,Female,23,Clothing,3,50,150,2023,1,January,4,Wednesday,1,FALSE,Young Adult,January
+232,2/6/2023,CUST232,Female,43,Beauty,1,25,25,2023,2,February,6,Monday,1,FALSE,Middle Age,February
+233,12/29/2023,CUST233,Female,51,Beauty,2,300,600,2023,12,December,29,Friday,4,FALSE,Middle Age,December
+234,11/20/2023,CUST234,Female,62,Electronics,2,25,50,2023,11,November,20,Monday,4,FALSE,Senior,November
+235,1/31/2023,CUST235,Female,23,Electronics,2,500,1000,2023,1,January,31,Tuesday,1,FALSE,Young Adult,January
+236,4/28/2023,CUST236,Female,54,Clothing,1,25,25,2023,4,April,28,Friday,2,FALSE,Middle Age,April
+237,2/4/2023,CUST237,Female,50,Beauty,2,500,1000,2023,2,February,4,Saturday,1,TRUE,Middle Age,February
+238,1/17/2023,CUST238,Female,39,Beauty,1,500,500,2023,1,January,17,Tuesday,1,FALSE,Middle Age,January
+239,6/19/2023,CUST239,Male,38,Electronics,3,500,1500,2023,6,June,19,Monday,2,FALSE,Middle Age,June
+240,2/6/2023,CUST240,Female,23,Beauty,1,300,300,2023,2,February,6,Monday,1,FALSE,Young Adult,February
+241,9/21/2023,CUST241,Female,23,Electronics,3,25,75,2023,9,September,21,Thursday,3,FALSE,Young Adult,September
+242,5/2/2023,CUST242,Male,21,Clothing,1,25,25,2023,5,May,2,Tuesday,2,FALSE,Young Adult,May
+243,5/23/2023,CUST243,Female,47,Electronics,3,300,900,2023,5,May,23,Tuesday,2,FALSE,Middle Age,May
+244,12/9/2023,CUST244,Male,28,Beauty,2,50,100,2023,12,December,9,Saturday,4,TRUE,Adult,December
+245,9/6/2023,CUST245,Male,47,Clothing,3,30,90,2023,9,September,6,Wednesday,3,FALSE,Middle Age,September
+246,4/20/2023,CUST246,Female,48,Electronics,2,25,50,2023,4,April,20,Thursday,2,FALSE,Middle Age,April
+247,10/4/2023,CUST247,Male,41,Electronics,2,30,60,2023,10,October,4,Wednesday,4,FALSE,Middle Age,October
+248,3/9/2023,CUST248,Male,26,Clothing,3,300,900,2023,3,March,9,Thursday,1,FALSE,Adult,March
+249,10/20/2023,CUST249,Male,20,Clothing,1,50,50,2023,10,October,20,Friday,4,FALSE,Young Adult,October
+250,10/23/2023,CUST250,Male,48,Electronics,1,50,50,2023,10,October,23,Monday,4,FALSE,Middle Age,October
+251,8/31/2023,CUST251,Female,57,Beauty,4,50,200,2023,8,August,31,Thursday,3,FALSE,Middle Age,August
+252,5/5/2023,CUST252,Male,54,Electronics,1,300,300,2023,5,May,5,Friday,2,FALSE,Middle Age,May
+253,8/31/2023,CUST253,Female,53,Clothing,4,500,2000,2023,8,August,31,Thursday,3,FALSE,Middle Age,August
+254,7/28/2023,CUST254,Male,41,Electronics,1,500,500,2023,7,July,28,Friday,3,FALSE,Middle Age,July
+255,4/8/2023,CUST255,Male,48,Clothing,1,30,30,2023,4,April,8,Saturday,2,TRUE,Middle Age,April
+256,2/18/2023,CUST256,Male,23,Clothing,2,500,1000,2023,2,February,18,Saturday,1,TRUE,Young Adult,February
+257,2/19/2023,CUST257,Male,19,Beauty,4,500,2000,2023,2,February,19,Sunday,1,TRUE,Young Adult,February
+258,12/4/2023,CUST258,Female,37,Clothing,1,50,50,2023,12,December,4,Monday,4,FALSE,Middle Age,December
+259,8/9/2023,CUST259,Female,45,Clothing,4,50,200,2023,8,August,9,Wednesday,3,FALSE,Middle Age,August
+260,7/1/2023,CUST260,Male,28,Beauty,2,30,60,2023,7,July,1,Saturday,3,TRUE,Adult,July
+261,8/5/2023,CUST261,Male,21,Clothing,2,25,50,2023,8,August,5,Saturday,3,TRUE,Young Adult,August
+262,7/30/2023,CUST262,Female,32,Beauty,4,30,120,2023,7,July,30,Sunday,3,TRUE,Adult,July
+263,8/28/2023,CUST263,Male,23,Beauty,2,30,60,2023,8,August,28,Monday,3,FALSE,Young Adult,August
+264,1/28/2023,CUST264,Male,47,Clothing,3,300,900,2023,1,January,28,Saturday,1,TRUE,Middle Age,January
+265,12/11/2023,CUST265,Male,55,Clothing,3,300,900,2023,12,December,11,Monday,4,FALSE,Middle Age,December
+266,12/1/2023,CUST266,Female,19,Electronics,2,30,60,2023,12,December,1,Friday,4,FALSE,Young Adult,December
+267,11/27/2023,CUST267,Female,32,Beauty,3,30,90,2023,11,November,27,Monday,4,FALSE,Adult,November
+268,2/20/2023,CUST268,Female,28,Electronics,1,30,30,2023,2,February,20,Monday,1,FALSE,Adult,February
+269,2/1/2023,CUST269,Male,25,Clothing,4,500,2000,2023,2,February,1,Wednesday,1,FALSE,Young Adult,February
+270,7/26/2023,CUST270,Male,43,Electronics,1,300,300,2023,7,July,26,Wednesday,3,FALSE,Middle Age,July
+271,6/23/2023,CUST271,Female,62,Beauty,4,30,120,2023,6,June,23,Friday,2,FALSE,Senior,June
+272,2/25/2023,CUST272,Female,61,Electronics,2,50,100,2023,2,February,25,Saturday,1,TRUE,Senior,February
+273,5/8/2023,CUST273,Female,22,Beauty,1,50,50,2023,5,May,8,Monday,2,FALSE,Young Adult,May
+274,4/9/2023,CUST274,Female,23,Clothing,2,500,1000,2023,4,April,9,Sunday,2,TRUE,Young Adult,April
+275,4/8/2023,CUST275,Male,43,Clothing,2,500,1000,2023,4,April,8,Saturday,2,TRUE,Middle Age,April
+276,10/2/2023,CUST276,Female,21,Beauty,4,25,100,2023,10,October,2,Monday,4,FALSE,Young Adult,October
+277,8/18/2023,CUST277,Male,36,Clothing,4,25,100,2023,8,August,18,Friday,3,FALSE,Middle Age,August
+278,3/13/2023,CUST278,Female,37,Clothing,4,25,100,2023,3,March,13,Monday,1,FALSE,Middle Age,March
+279,8/5/2023,CUST279,Male,50,Clothing,1,500,500,2023,8,August,5,Saturday,3,TRUE,Middle Age,August
+280,4/4/2023,CUST280,Female,37,Clothing,3,500,1500,2023,4,April,4,Tuesday,2,FALSE,Middle Age,April
+281,5/23/2023,CUST281,Female,29,Beauty,4,500,2000,2023,5,May,23,Tuesday,2,FALSE,Adult,May
+282,8/25/2023,CUST282,Female,64,Electronics,4,50,200,2023,8,August,25,Friday,3,FALSE,Senior,August
+283,5/8/2023,CUST283,Female,18,Electronics,1,500,500,2023,5,May,8,Monday,2,FALSE,Teen,May
+284,2/8/2023,CUST284,Male,43,Clothing,4,50,200,2023,2,February,8,Wednesday,1,FALSE,Middle Age,February
+285,8/15/2023,CUST285,Female,31,Electronics,1,25,25,2023,8,August,15,Tuesday,3,FALSE,Adult,August
+286,10/9/2023,CUST286,Male,55,Electronics,2,25,50,2023,10,October,9,Monday,4,FALSE,Middle Age,October
+287,2/20/2023,CUST287,Male,54,Clothing,4,25,100,2023,2,February,20,Monday,1,FALSE,Middle Age,February
+288,1/26/2023,CUST288,Male,28,Clothing,4,30,120,2023,1,January,26,Thursday,1,FALSE,Adult,January
+289,11/30/2023,CUST289,Male,53,Electronics,2,30,60,2023,11,November,30,Thursday,4,FALSE,Middle Age,November
+290,10/4/2023,CUST290,Female,30,Beauty,2,300,600,2023,10,October,4,Wednesday,4,FALSE,Adult,October
+291,1/8/2023,CUST291,Male,60,Clothing,2,300,600,2023,1,January,8,Sunday,1,TRUE,Senior,January
+292,2/17/2023,CUST292,Male,20,Beauty,4,300,1200,2023,2,February,17,Friday,1,FALSE,Young Adult,February
+293,5/2/2023,CUST293,Male,50,Electronics,3,30,90,2023,5,May,2,Tuesday,2,FALSE,Middle Age,May
+294,3/27/2023,CUST294,Female,23,Clothing,3,30,90,2023,3,March,27,Monday,1,FALSE,Young Adult,March
+295,7/28/2023,CUST295,Female,27,Beauty,3,300,900,2023,7,July,28,Friday,3,FALSE,Adult,July
+296,9/6/2023,CUST296,Female,22,Clothing,4,300,1200,2023,9,September,6,Wednesday,3,FALSE,Young Adult,September
+297,9/4/2023,CUST297,Female,40,Electronics,2,500,1000,2023,9,September,4,Monday,3,FALSE,Middle Age,September
+298,4/20/2023,CUST298,Male,27,Beauty,4,300,1200,2023,4,April,20,Thursday,2,FALSE,Adult,April
+299,7/25/2023,CUST299,Male,61,Electronics,2,500,1000,2023,7,July,25,Tuesday,3,FALSE,Senior,July
+300,1/31/2023,CUST300,Female,19,Electronics,4,50,200,2023,1,January,31,Tuesday,1,FALSE,Young Adult,January
+301,3/26/2023,CUST301,Male,30,Clothing,4,30,120,2023,3,March,26,Sunday,1,TRUE,Adult,March
+302,7/14/2023,CUST302,Male,57,Beauty,2,300,600,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+303,1/2/2023,CUST303,Male,19,Electronics,3,30,90,2023,1,January,2,Monday,1,FALSE,Young Adult,January
+304,7/19/2023,CUST304,Female,37,Electronics,2,30,60,2023,7,July,19,Wednesday,3,FALSE,Middle Age,July
+305,5/16/2023,CUST305,Female,18,Beauty,1,30,30,2023,5,May,16,Tuesday,2,FALSE,Teen,May
+306,8/21/2023,CUST306,Male,54,Electronics,1,50,50,2023,8,August,21,Monday,3,FALSE,Middle Age,August
+307,5/27/2023,CUST307,Female,26,Electronics,2,25,50,2023,5,May,27,Saturday,2,TRUE,Adult,May
+308,8/5/2023,CUST308,Female,34,Beauty,4,300,1200,2023,8,August,5,Saturday,3,TRUE,Adult,August
+309,12/23/2023,CUST309,Female,26,Beauty,1,25,25,2023,12,December,23,Saturday,4,TRUE,Adult,December
+310,10/12/2023,CUST310,Female,28,Beauty,1,25,25,2023,10,October,12,Thursday,4,FALSE,Adult,October
+311,12/5/2023,CUST311,Female,32,Beauty,4,25,100,2023,12,December,5,Tuesday,4,FALSE,Adult,December
+312,9/7/2023,CUST312,Male,41,Clothing,4,30,120,2023,9,September,7,Thursday,3,FALSE,Middle Age,September
+313,3/21/2023,CUST313,Female,55,Beauty,3,500,1500,2023,3,March,21,Tuesday,1,FALSE,Middle Age,March
+314,4/8/2023,CUST314,Male,52,Clothing,4,30,120,2023,4,April,8,Saturday,2,TRUE,Middle Age,April
+315,6/1/2023,CUST315,Male,47,Clothing,2,30,60,2023,6,June,1,Thursday,2,FALSE,Middle Age,June
+316,4/22/2023,CUST316,Female,48,Clothing,2,25,50,2023,4,April,22,Saturday,2,TRUE,Middle Age,April
+317,1/30/2023,CUST317,Male,22,Electronics,3,30,90,2023,1,January,30,Monday,1,FALSE,Young Adult,January
+318,10/24/2023,CUST318,Male,61,Clothing,1,25,25,2023,10,October,24,Tuesday,4,FALSE,Senior,October
+319,10/5/2023,CUST319,Male,31,Clothing,1,500,500,2023,10,October,5,Thursday,4,FALSE,Adult,October
+320,2/1/2023,CUST320,Female,28,Electronics,4,300,1200,2023,2,February,1,Wednesday,1,FALSE,Adult,February
+321,6/10/2023,CUST321,Female,26,Electronics,2,25,50,2023,6,June,10,Saturday,2,TRUE,Adult,June
+322,1/30/2023,CUST322,Male,51,Electronics,1,500,500,2023,1,January,30,Monday,1,FALSE,Middle Age,January
+323,1/26/2023,CUST323,Female,29,Beauty,3,300,900,2023,1,January,26,Thursday,1,FALSE,Adult,January
+324,10/27/2023,CUST324,Female,52,Electronics,3,50,150,2023,10,October,27,Friday,4,FALSE,Middle Age,October
+325,9/2/2023,CUST325,Female,52,Electronics,2,25,50,2023,9,September,2,Saturday,3,TRUE,Middle Age,September
+326,9/15/2023,CUST326,Female,18,Clothing,3,25,75,2023,9,September,15,Friday,3,FALSE,Teen,September
+327,9/29/2023,CUST327,Male,57,Electronics,3,50,150,2023,9,September,29,Friday,3,FALSE,Middle Age,September
+328,3/22/2023,CUST328,Male,39,Beauty,2,50,100,2023,3,March,22,Wednesday,1,FALSE,Middle Age,March
+329,1/30/2023,CUST329,Female,46,Electronics,4,25,100,2023,1,January,30,Monday,1,FALSE,Middle Age,January
+330,9/18/2023,CUST330,Female,25,Beauty,4,50,200,2023,9,September,18,Monday,3,FALSE,Young Adult,September
+331,2/11/2023,CUST331,Male,28,Electronics,3,30,90,2023,2,February,11,Saturday,1,TRUE,Adult,February
+332,4/6/2023,CUST332,Male,58,Electronics,4,300,1200,2023,4,April,6,Thursday,2,FALSE,Middle Age,April
+333,2/5/2023,CUST333,Female,54,Electronics,4,300,1200,2023,2,February,5,Sunday,1,TRUE,Middle Age,February
+334,11/1/2023,CUST334,Male,31,Electronics,3,300,900,2023,11,November,1,Wednesday,4,FALSE,Adult,November
+335,2/4/2023,CUST335,Female,47,Beauty,4,30,120,2023,2,February,4,Saturday,1,TRUE,Middle Age,February
+336,12/12/2023,CUST336,Female,52,Beauty,3,50,150,2023,12,December,12,Tuesday,4,FALSE,Middle Age,December
+337,5/1/2023,CUST337,Male,38,Clothing,1,500,500,2023,5,May,1,Monday,2,FALSE,Middle Age,May
+338,7/26/2023,CUST338,Male,54,Beauty,2,50,100,2023,7,July,26,Wednesday,3,FALSE,Middle Age,July
+339,3/3/2023,CUST339,Female,22,Electronics,2,25,50,2023,3,March,3,Friday,1,FALSE,Young Adult,March
+340,10/19/2023,CUST340,Female,36,Clothing,4,300,1200,2023,10,October,19,Thursday,4,FALSE,Middle Age,October
+341,5/7/2023,CUST341,Male,31,Clothing,4,50,200,2023,5,May,7,Sunday,2,TRUE,Adult,May
+342,10/24/2023,CUST342,Female,43,Clothing,4,500,2000,2023,10,October,24,Tuesday,4,FALSE,Middle Age,October
+343,11/1/2023,CUST343,Male,21,Electronics,2,25,50,2023,11,November,1,Wednesday,4,FALSE,Young Adult,November
+344,1/21/2023,CUST344,Female,42,Beauty,1,30,30,2023,1,January,21,Saturday,1,TRUE,Middle Age,January
+345,11/14/2023,CUST345,Male,62,Electronics,1,30,30,2023,11,November,14,Tuesday,4,FALSE,Senior,November
+346,2/11/2023,CUST346,Male,59,Clothing,2,500,1000,2023,2,February,11,Saturday,1,TRUE,Senior,February
+347,8/3/2023,CUST347,Male,42,Electronics,1,25,25,2023,8,August,3,Thursday,3,FALSE,Middle Age,August
+348,12/3/2023,CUST348,Female,35,Electronics,2,300,600,2023,12,December,3,Sunday,4,TRUE,Adult,December
+349,10/26/2023,CUST349,Female,57,Beauty,1,50,50,2023,10,October,26,Thursday,4,FALSE,Middle Age,October
+350,10/17/2023,CUST350,Male,25,Beauty,3,25,75,2023,10,October,17,Tuesday,4,FALSE,Young Adult,October
+351,9/25/2023,CUST351,Female,56,Clothing,3,30,90,2023,9,September,25,Monday,3,FALSE,Middle Age,September
+352,6/11/2023,CUST352,Male,57,Electronics,2,500,1000,2023,6,June,11,Sunday,2,TRUE,Middle Age,June
+353,5/14/2023,CUST353,Male,31,Electronics,1,500,500,2023,5,May,14,Sunday,2,TRUE,Adult,May
+354,4/15/2023,CUST354,Female,49,Beauty,4,50,200,2023,4,April,15,Saturday,2,TRUE,Middle Age,April
+355,12/9/2023,CUST355,Female,55,Electronics,1,500,500,2023,12,December,9,Saturday,4,TRUE,Middle Age,December
+356,6/10/2023,CUST356,Male,50,Electronics,3,500,1500,2023,6,June,10,Saturday,2,TRUE,Middle Age,June
+357,5/3/2023,CUST357,Female,40,Electronics,3,25,75,2023,5,May,3,Wednesday,2,FALSE,Middle Age,May
+358,5/16/2023,CUST358,Female,32,Beauty,1,300,300,2023,5,May,16,Tuesday,2,FALSE,Adult,May
+359,7/22/2023,CUST359,Male,50,Clothing,1,50,50,2023,7,July,22,Saturday,3,TRUE,Middle Age,July
+360,3/9/2023,CUST360,Male,42,Clothing,4,25,100,2023,3,March,9,Thursday,1,FALSE,Middle Age,March
+361,12/10/2023,CUST361,Female,34,Electronics,4,300,1200,2023,12,December,10,Sunday,4,TRUE,Adult,December
+362,11/27/2023,CUST362,Male,50,Clothing,1,25,25,2023,11,November,27,Monday,4,FALSE,Middle Age,November
+363,6/3/2023,CUST363,Male,64,Beauty,1,25,25,2023,6,June,3,Saturday,2,TRUE,Senior,June
+364,8/23/2023,CUST364,Female,19,Beauty,1,500,500,2023,8,August,23,Wednesday,3,FALSE,Young Adult,August
+365,6/11/2023,CUST365,Male,31,Clothing,1,300,300,2023,6,June,11,Sunday,2,TRUE,Adult,June
+366,2/7/2023,CUST366,Male,57,Clothing,2,50,100,2023,2,February,7,Tuesday,1,FALSE,Middle Age,February
+367,1/5/2023,CUST367,Female,57,Electronics,1,50,50,2023,1,January,5,Thursday,1,FALSE,Middle Age,January
+368,8/23/2023,CUST368,Female,56,Clothing,4,300,1200,2023,8,August,23,Wednesday,3,FALSE,Middle Age,August
+369,11/15/2023,CUST369,Male,23,Electronics,3,500,1500,2023,11,November,15,Wednesday,4,FALSE,Young Adult,November
+370,10/16/2023,CUST370,Male,23,Electronics,2,30,60,2023,10,October,16,Monday,4,FALSE,Young Adult,October
+371,2/21/2023,CUST371,Female,20,Beauty,1,25,25,2023,2,February,21,Tuesday,1,FALSE,Young Adult,February
+372,2/7/2023,CUST372,Female,24,Beauty,3,500,1500,2023,2,February,7,Tuesday,1,FALSE,Young Adult,February
+373,10/3/2023,CUST373,Female,25,Beauty,2,300,600,2023,10,October,3,Tuesday,4,FALSE,Young Adult,October
+374,4/20/2023,CUST374,Female,59,Beauty,3,25,75,2023,4,April,20,Thursday,2,FALSE,Senior,April
+375,9/17/2023,CUST375,Male,32,Clothing,1,50,50,2023,9,September,17,Sunday,3,TRUE,Adult,September
+376,5/16/2023,CUST376,Female,64,Beauty,1,30,30,2023,5,May,16,Tuesday,2,FALSE,Senior,May
+377,3/9/2023,CUST377,Female,46,Clothing,4,50,200,2023,3,March,9,Thursday,1,FALSE,Middle Age,March
+378,6/28/2023,CUST378,Male,50,Beauty,1,300,300,2023,6,June,28,Wednesday,2,FALSE,Middle Age,June
+379,2/5/2023,CUST379,Female,47,Clothing,1,25,25,2023,2,February,5,Sunday,1,TRUE,Middle Age,February
+380,5/6/2023,CUST380,Male,56,Electronics,2,300,600,2023,5,May,6,Saturday,2,TRUE,Middle Age,May
+381,7/9/2023,CUST381,Female,44,Clothing,4,25,100,2023,7,July,9,Sunday,3,TRUE,Middle Age,July
+382,5/26/2023,CUST382,Female,53,Clothing,2,500,1000,2023,5,May,26,Friday,2,FALSE,Middle Age,May
+383,3/22/2023,CUST383,Female,46,Beauty,3,30,90,2023,3,March,22,Wednesday,1,FALSE,Middle Age,March
+384,8/13/2023,CUST384,Male,55,Clothing,1,500,500,2023,8,August,13,Sunday,3,TRUE,Middle Age,August
+385,10/6/2023,CUST385,Male,50,Electronics,3,500,1500,2023,10,October,6,Friday,4,FALSE,Middle Age,October
+386,12/27/2023,CUST386,Female,54,Electronics,2,300,600,2023,12,December,27,Wednesday,4,FALSE,Middle Age,December
+387,6/4/2023,CUST387,Male,44,Beauty,1,30,30,2023,6,June,4,Sunday,2,TRUE,Middle Age,June
+388,11/10/2023,CUST388,Male,50,Electronics,1,25,25,2023,11,November,10,Friday,4,FALSE,Middle Age,November
+389,12/1/2023,CUST389,Male,21,Clothing,2,25,50,2023,12,December,1,Friday,4,FALSE,Young Adult,December
+390,9/28/2023,CUST390,Male,39,Electronics,2,50,100,2023,9,September,28,Thursday,3,FALSE,Middle Age,September
+391,1/5/2023,CUST391,Male,19,Beauty,2,25,50,2023,1,January,5,Thursday,1,FALSE,Young Adult,January
+392,12/8/2023,CUST392,Male,27,Clothing,2,300,600,2023,12,December,8,Friday,4,FALSE,Adult,December
+393,10/11/2023,CUST393,Female,22,Beauty,2,500,1000,2023,10,October,11,Wednesday,4,FALSE,Young Adult,October
+394,6/3/2023,CUST394,Female,27,Clothing,1,500,500,2023,6,June,3,Saturday,2,TRUE,Adult,June
+395,12/6/2023,CUST395,Male,50,Electronics,2,500,1000,2023,12,December,6,Wednesday,4,FALSE,Middle Age,December
+396,2/23/2023,CUST396,Female,55,Beauty,1,30,30,2023,2,February,23,Thursday,1,FALSE,Middle Age,February
+397,3/10/2023,CUST397,Female,30,Beauty,1,25,25,2023,3,March,10,Friday,1,FALSE,Adult,March
+398,5/16/2023,CUST398,Female,48,Clothing,2,300,600,2023,5,May,16,Tuesday,2,FALSE,Middle Age,May
+399,3/1/2023,CUST399,Female,64,Beauty,2,30,60,2023,3,March,1,Wednesday,1,FALSE,Senior,March
+400,2/24/2023,CUST400,Male,53,Clothing,4,50,200,2023,2,February,24,Friday,1,FALSE,Middle Age,February
+401,10/11/2023,CUST401,Female,62,Clothing,1,300,300,2023,10,October,11,Wednesday,4,FALSE,Senior,October
+402,3/21/2023,CUST402,Female,41,Clothing,2,300,600,2023,3,March,21,Tuesday,1,FALSE,Middle Age,March
+403,5/20/2023,CUST403,Male,32,Clothing,2,300,600,2023,5,May,20,Saturday,2,TRUE,Adult,May
+404,5/25/2023,CUST404,Male,46,Electronics,2,500,1000,2023,5,May,25,Thursday,2,FALSE,Middle Age,May
+405,11/6/2023,CUST405,Female,25,Clothing,4,300,1200,2023,11,November,6,Monday,4,FALSE,Young Adult,November
+406,4/18/2023,CUST406,Female,22,Beauty,4,25,100,2023,4,April,18,Tuesday,2,FALSE,Young Adult,April
+407,6/25/2023,CUST407,Female,46,Electronics,3,300,900,2023,6,June,25,Sunday,2,TRUE,Middle Age,June
+408,4/15/2023,CUST408,Female,64,Beauty,1,500,500,2023,4,April,15,Saturday,2,TRUE,Senior,April
+409,12/18/2023,CUST409,Female,21,Electronics,3,300,900,2023,12,December,18,Monday,4,FALSE,Young Adult,December
+410,11/21/2023,CUST410,Female,29,Clothing,2,50,100,2023,11,November,21,Tuesday,4,FALSE,Adult,November
+411,5/16/2023,CUST411,Male,62,Electronics,4,50,200,2023,5,May,16,Tuesday,2,FALSE,Senior,May
+412,9/16/2023,CUST412,Female,19,Electronics,4,500,2000,2023,9,September,16,Saturday,3,TRUE,Young Adult,September
+413,9/8/2023,CUST413,Female,44,Beauty,3,25,75,2023,9,September,8,Friday,3,FALSE,Middle Age,September
+414,5/9/2023,CUST414,Male,48,Beauty,4,25,100,2023,5,May,9,Tuesday,2,FALSE,Middle Age,May
+415,1/27/2023,CUST415,Male,53,Clothing,2,30,60,2023,1,January,27,Friday,1,FALSE,Middle Age,January
+416,2/17/2023,CUST416,Male,53,Electronics,4,500,2000,2023,2,February,17,Friday,1,FALSE,Middle Age,February
+417,11/21/2023,CUST417,Male,43,Electronics,3,300,900,2023,11,November,21,Tuesday,4,FALSE,Middle Age,November
+418,8/5/2023,CUST418,Female,60,Electronics,2,500,1000,2023,8,August,5,Saturday,3,TRUE,Senior,August
+419,5/22/2023,CUST419,Female,44,Clothing,3,30,90,2023,5,May,22,Monday,2,FALSE,Middle Age,May
+420,1/23/2023,CUST420,Female,22,Clothing,4,500,2000,2023,1,January,23,Monday,1,FALSE,Young Adult,January
+421,1/2/2023,CUST421,Female,37,Clothing,3,500,1500,2023,1,January,2,Monday,1,FALSE,Middle Age,January
+422,6/20/2023,CUST422,Female,28,Clothing,3,30,90,2023,6,June,20,Tuesday,2,FALSE,Adult,June
+423,3/8/2023,CUST423,Female,27,Clothing,1,25,25,2023,3,March,8,Wednesday,1,FALSE,Adult,March
+424,11/23/2023,CUST424,Male,57,Beauty,4,300,1200,2023,11,November,23,Thursday,4,FALSE,Middle Age,November
+425,5/15/2023,CUST425,Female,55,Electronics,4,30,120,2023,5,May,15,Monday,2,FALSE,Middle Age,May
+426,3/24/2023,CUST426,Male,23,Electronics,3,50,150,2023,3,March,24,Friday,1,FALSE,Young Adult,March
+427,8/15/2023,CUST427,Male,25,Electronics,1,25,25,2023,8,August,15,Tuesday,3,FALSE,Young Adult,August
+428,10/10/2023,CUST428,Female,40,Electronics,4,50,200,2023,10,October,10,Tuesday,4,FALSE,Middle Age,October
+429,12/28/2023,CUST429,Male,64,Electronics,2,25,50,2023,12,December,28,Thursday,4,FALSE,Senior,December
+430,8/7/2023,CUST430,Female,43,Electronics,3,300,900,2023,8,August,7,Monday,3,FALSE,Middle Age,August
+431,10/15/2023,CUST431,Male,63,Electronics,4,300,1200,2023,10,October,15,Sunday,4,TRUE,Senior,October
+432,1/5/2023,CUST432,Female,60,Electronics,2,500,1000,2023,1,January,5,Thursday,1,FALSE,Senior,January
+433,2/27/2023,CUST433,Male,29,Beauty,4,50,200,2023,2,February,27,Monday,1,FALSE,Adult,February
+434,2/8/2023,CUST434,Female,43,Electronics,2,25,50,2023,2,February,8,Wednesday,1,FALSE,Middle Age,February
+435,12/20/2023,CUST435,Female,30,Beauty,3,300,900,2023,12,December,20,Wednesday,4,FALSE,Adult,December
+436,3/18/2023,CUST436,Female,57,Clothing,4,30,120,2023,3,March,18,Saturday,1,TRUE,Middle Age,March
+437,10/7/2023,CUST437,Female,35,Electronics,4,300,1200,2023,10,October,7,Saturday,4,TRUE,Adult,October
+438,1/19/2023,CUST438,Female,42,Clothing,1,30,30,2023,1,January,19,Thursday,1,FALSE,Middle Age,January
+439,7/9/2023,CUST439,Male,50,Clothing,3,25,75,2023,7,July,9,Sunday,3,TRUE,Middle Age,July
+440,10/26/2023,CUST440,Male,64,Clothing,2,300,600,2023,10,October,26,Thursday,4,FALSE,Senior,October
+441,10/10/2023,CUST441,Male,57,Beauty,4,300,1200,2023,10,October,10,Tuesday,4,FALSE,Middle Age,October
+442,3/17/2023,CUST442,Female,60,Clothing,4,25,100,2023,3,March,17,Friday,1,FALSE,Senior,March
+443,8/9/2023,CUST443,Male,29,Clothing,2,300,600,2023,8,August,9,Wednesday,3,FALSE,Adult,August
+444,3/7/2023,CUST444,Female,61,Clothing,3,30,90,2023,3,March,7,Tuesday,1,FALSE,Senior,March
+445,1/22/2023,CUST445,Female,53,Electronics,1,300,300,2023,1,January,22,Sunday,1,TRUE,Middle Age,January
+446,6/7/2023,CUST446,Male,21,Electronics,1,50,50,2023,6,June,7,Wednesday,2,FALSE,Young Adult,June
+447,7/6/2023,CUST447,Male,22,Beauty,4,500,2000,2023,7,July,6,Thursday,3,FALSE,Young Adult,July
+448,1/21/2023,CUST448,Female,54,Beauty,2,30,60,2023,1,January,21,Saturday,1,TRUE,Middle Age,January
+449,7/3/2023,CUST449,Male,25,Electronics,4,50,200,2023,7,July,3,Monday,3,FALSE,Young Adult,July
+450,4/18/2023,CUST450,Female,59,Beauty,2,25,50,2023,4,April,18,Tuesday,2,FALSE,Senior,April
+451,12/16/2023,CUST451,Female,45,Electronics,1,30,30,2023,12,December,16,Saturday,4,TRUE,Middle Age,December
+452,5/8/2023,CUST452,Female,48,Clothing,3,500,1500,2023,5,May,8,Monday,2,FALSE,Middle Age,May
+453,12/8/2023,CUST453,Female,26,Clothing,2,500,1000,2023,12,December,8,Friday,4,FALSE,Adult,December
+454,2/22/2023,CUST454,Female,46,Beauty,1,25,25,2023,2,February,22,Wednesday,1,FALSE,Middle Age,February
+455,7/1/2023,CUST455,Male,31,Electronics,4,25,100,2023,7,July,1,Saturday,3,TRUE,Adult,July
+456,10/14/2023,CUST456,Male,57,Electronics,2,30,60,2023,10,October,14,Saturday,4,TRUE,Middle Age,October
+457,7/28/2023,CUST457,Female,58,Beauty,3,300,900,2023,7,July,28,Friday,3,FALSE,Middle Age,July
+458,11/14/2023,CUST458,Female,39,Electronics,4,25,100,2023,11,November,14,Tuesday,4,FALSE,Middle Age,November
+459,3/21/2023,CUST459,Male,28,Clothing,4,300,1200,2023,3,March,21,Tuesday,1,FALSE,Adult,March
+460,5/2/2023,CUST460,Male,40,Beauty,1,50,50,2023,5,May,2,Tuesday,2,FALSE,Middle Age,May
+461,3/25/2023,CUST461,Female,18,Beauty,2,500,1000,2023,3,March,25,Saturday,1,TRUE,Teen,March
+462,4/1/2023,CUST462,Male,63,Electronics,4,300,1200,2023,4,April,1,Saturday,2,TRUE,Senior,April
+463,7/31/2023,CUST463,Female,54,Beauty,3,500,1500,2023,7,July,31,Monday,3,FALSE,Middle Age,July
+464,1/13/2023,CUST464,Male,38,Electronics,2,300,600,2023,1,January,13,Friday,1,FALSE,Middle Age,January
+465,4/2/2023,CUST465,Female,43,Electronics,3,50,150,2023,4,April,2,Sunday,2,TRUE,Middle Age,April
+466,6/20/2023,CUST466,Male,63,Electronics,4,25,100,2023,6,June,20,Tuesday,2,FALSE,Senior,June
+467,7/30/2023,CUST467,Female,53,Electronics,3,50,150,2023,7,July,30,Sunday,3,TRUE,Middle Age,July
+468,12/9/2023,CUST468,Male,40,Electronics,1,25,25,2023,12,December,9,Saturday,4,TRUE,Middle Age,December
+469,5/8/2023,CUST469,Male,18,Beauty,3,25,75,2023,5,May,8,Monday,2,FALSE,Teen,May
+470,5/17/2023,CUST470,Female,57,Clothing,2,500,1000,2023,5,May,17,Wednesday,2,FALSE,Middle Age,May
+471,3/23/2023,CUST471,Male,32,Clothing,3,50,150,2023,3,March,23,Thursday,1,FALSE,Adult,March
+472,12/26/2023,CUST472,Female,38,Beauty,3,300,900,2023,12,December,26,Tuesday,4,FALSE,Middle Age,December
+473,2/25/2023,CUST473,Male,64,Beauty,1,50,50,2023,2,February,25,Saturday,1,TRUE,Senior,February
+474,7/15/2023,CUST474,Female,26,Clothing,3,500,1500,2023,7,July,15,Saturday,3,TRUE,Adult,July
+475,1/20/2023,CUST475,Male,26,Clothing,3,25,75,2023,1,January,20,Friday,1,FALSE,Adult,January
+476,8/29/2023,CUST476,Female,27,Clothing,4,500,2000,2023,8,August,29,Tuesday,3,FALSE,Adult,August
+477,4/24/2023,CUST477,Male,43,Clothing,4,30,120,2023,4,April,24,Monday,2,FALSE,Middle Age,April
+478,4/13/2023,CUST478,Female,58,Clothing,2,30,60,2023,4,April,13,Thursday,2,FALSE,Middle Age,April
+479,8/24/2023,CUST479,Male,52,Electronics,4,300,1200,2023,8,August,24,Thursday,3,FALSE,Middle Age,August
+480,6/29/2023,CUST480,Female,42,Beauty,4,500,2000,2023,6,June,29,Thursday,2,FALSE,Middle Age,June
+481,6/6/2023,CUST481,Female,43,Electronics,4,300,1200,2023,6,June,6,Tuesday,2,FALSE,Middle Age,June
+482,4/27/2023,CUST482,Female,28,Clothing,4,300,1200,2023,4,April,27,Thursday,2,FALSE,Adult,April
+483,4/25/2023,CUST483,Male,55,Clothing,1,30,30,2023,4,April,25,Tuesday,2,FALSE,Middle Age,April
+484,1/13/2023,CUST484,Female,19,Clothing,4,300,1200,2023,1,January,13,Friday,1,FALSE,Young Adult,January
+485,12/4/2023,CUST485,Male,24,Electronics,1,30,30,2023,12,December,4,Monday,4,FALSE,Young Adult,December
+486,4/9/2023,CUST486,Female,35,Electronics,1,25,25,2023,4,April,9,Sunday,2,TRUE,Adult,April
+487,7/24/2023,CUST487,Male,44,Clothing,4,500,2000,2023,7,July,24,Monday,3,FALSE,Middle Age,July
+488,6/18/2023,CUST488,Female,51,Electronics,3,300,900,2023,6,June,18,Sunday,2,TRUE,Middle Age,June
+489,5/23/2023,CUST489,Male,44,Electronics,1,30,30,2023,5,May,23,Tuesday,2,FALSE,Middle Age,May
+490,2/5/2023,CUST490,Male,34,Clothing,3,50,150,2023,2,February,5,Sunday,1,TRUE,Adult,February
+491,5/23/2023,CUST491,Female,60,Electronics,3,300,900,2023,5,May,23,Tuesday,2,FALSE,Senior,May
+492,6/29/2023,CUST492,Male,61,Beauty,4,25,100,2023,6,June,29,Thursday,2,FALSE,Senior,June
+493,11/25/2023,CUST493,Male,41,Beauty,2,25,50,2023,11,November,25,Saturday,4,TRUE,Middle Age,November
+494,9/18/2023,CUST494,Female,42,Beauty,4,50,200,2023,9,September,18,Monday,3,FALSE,Middle Age,September
+495,7/24/2023,CUST495,Male,24,Beauty,2,30,60,2023,7,July,24,Monday,3,FALSE,Young Adult,July
+496,12/14/2023,CUST496,Male,23,Clothing,2,300,600,2023,12,December,14,Thursday,4,FALSE,Young Adult,December
+497,10/2/2023,CUST497,Male,41,Clothing,4,30,120,2023,10,October,2,Monday,4,FALSE,Middle Age,October
+498,6/19/2023,CUST498,Female,50,Clothing,4,25,100,2023,6,June,19,Monday,2,FALSE,Middle Age,June
+499,1/15/2023,CUST499,Male,46,Beauty,2,30,60,2023,1,January,15,Sunday,1,TRUE,Middle Age,January
+500,3/1/2023,CUST500,Female,60,Beauty,4,25,100,2023,3,March,1,Wednesday,1,FALSE,Senior,March
+501,5/14/2023,CUST501,Male,39,Electronics,2,30,60,2023,5,May,14,Sunday,2,TRUE,Middle Age,May
+502,4/2/2023,CUST502,Male,43,Electronics,3,50,150,2023,4,April,2,Sunday,2,TRUE,Middle Age,April
+503,10/25/2023,CUST503,Male,45,Beauty,4,500,2000,2023,10,October,25,Wednesday,4,FALSE,Middle Age,October
+504,5/16/2023,CUST504,Female,38,Beauty,3,50,150,2023,5,May,16,Tuesday,2,FALSE,Middle Age,May
+505,1/20/2023,CUST505,Male,24,Beauty,1,50,50,2023,1,January,20,Friday,1,FALSE,Young Adult,January
+506,2/25/2023,CUST506,Male,34,Beauty,3,500,1500,2023,2,February,25,Saturday,1,TRUE,Adult,February
+507,11/2/2023,CUST507,Female,37,Electronics,3,500,1500,2023,11,November,2,Thursday,4,FALSE,Middle Age,November
+508,8/11/2023,CUST508,Male,58,Beauty,2,300,600,2023,8,August,11,Friday,3,FALSE,Middle Age,August
+509,6/26/2023,CUST509,Female,37,Electronics,3,300,900,2023,6,June,26,Monday,2,FALSE,Middle Age,June
+510,6/10/2023,CUST510,Female,39,Beauty,4,50,200,2023,6,June,10,Saturday,2,TRUE,Middle Age,June
+511,8/12/2023,CUST511,Male,45,Beauty,2,50,100,2023,8,August,12,Saturday,3,TRUE,Middle Age,August
+512,11/7/2023,CUST512,Female,57,Beauty,1,25,25,2023,11,November,7,Tuesday,4,FALSE,Middle Age,November
+513,9/19/2023,CUST513,Male,24,Electronics,4,25,100,2023,9,September,19,Tuesday,3,FALSE,Young Adult,September
+514,3/1/2023,CUST514,Female,18,Electronics,1,300,300,2023,3,March,1,Wednesday,1,FALSE,Teen,March
+515,7/17/2023,CUST515,Female,49,Clothing,3,300,900,2023,7,July,17,Monday,3,FALSE,Middle Age,July
+516,10/23/2023,CUST516,Male,30,Beauty,4,25,100,2023,10,October,23,Monday,4,FALSE,Adult,October
+517,4/8/2023,CUST517,Female,47,Clothing,4,25,100,2023,4,April,8,Saturday,2,TRUE,Middle Age,April
+518,5/11/2023,CUST518,Female,40,Clothing,1,30,30,2023,5,May,11,Thursday,2,FALSE,Middle Age,May
+519,1/23/2023,CUST519,Female,36,Electronics,4,30,120,2023,1,January,23,Monday,1,FALSE,Middle Age,January
+520,12/29/2023,CUST520,Female,49,Electronics,4,25,100,2023,12,December,29,Friday,4,FALSE,Middle Age,December
+521,8/12/2023,CUST521,Female,47,Clothing,4,30,120,2023,8,August,12,Saturday,3,TRUE,Middle Age,August
+522,1/1/2023,CUST522,Male,46,Beauty,3,500,1500,2023,1,January,1,Sunday,1,TRUE,Middle Age,January
+523,9/24/2023,CUST523,Female,62,Electronics,1,300,300,2023,9,September,24,Sunday,3,TRUE,Senior,September
+524,10/3/2023,CUST524,Male,46,Beauty,4,300,1200,2023,10,October,3,Tuesday,4,FALSE,Middle Age,October
+525,12/18/2023,CUST525,Female,47,Beauty,2,25,50,2023,12,December,18,Monday,4,FALSE,Middle Age,December
+526,12/10/2023,CUST526,Male,33,Clothing,2,50,100,2023,12,December,10,Sunday,4,TRUE,Adult,December
+527,4/11/2023,CUST527,Male,57,Clothing,2,25,50,2023,4,April,11,Tuesday,2,FALSE,Middle Age,April
+528,7/6/2023,CUST528,Female,36,Clothing,2,30,60,2023,7,July,6,Thursday,3,FALSE,Middle Age,July
+529,8/9/2023,CUST529,Female,35,Clothing,3,50,150,2023,8,August,9,Wednesday,3,FALSE,Adult,August
+530,2/5/2023,CUST530,Female,18,Electronics,4,30,120,2023,2,February,5,Sunday,1,TRUE,Teen,February
+531,12/7/2023,CUST531,Male,31,Electronics,1,500,500,2023,12,December,7,Thursday,4,FALSE,Adult,December
+532,6/19/2023,CUST532,Female,64,Clothing,4,30,120,2023,6,June,19,Monday,2,FALSE,Senior,June
+533,11/16/2023,CUST533,Male,19,Electronics,3,500,1500,2023,11,November,16,Thursday,4,FALSE,Young Adult,November
+534,6/10/2023,CUST534,Male,45,Clothing,2,500,1000,2023,6,June,10,Saturday,2,TRUE,Middle Age,June
+535,12/6/2023,CUST535,Male,47,Beauty,3,30,90,2023,12,December,6,Wednesday,4,FALSE,Middle Age,December
+536,3/5/2023,CUST536,Female,55,Beauty,4,30,120,2023,3,March,5,Sunday,1,TRUE,Middle Age,March
+537,6/3/2023,CUST537,Female,21,Beauty,1,500,500,2023,6,June,3,Saturday,2,TRUE,Young Adult,June
+538,9/17/2023,CUST538,Male,18,Clothing,3,50,150,2023,9,September,17,Sunday,3,TRUE,Teen,September
+539,6/8/2023,CUST539,Male,25,Beauty,1,500,500,2023,6,June,8,Thursday,2,FALSE,Young Adult,June
+540,12/8/2023,CUST540,Female,46,Electronics,3,300,900,2023,12,December,8,Friday,4,FALSE,Middle Age,December
+541,7/29/2023,CUST541,Male,56,Beauty,1,500,500,2023,7,July,29,Saturday,3,TRUE,Middle Age,July
+542,6/17/2023,CUST542,Female,20,Beauty,1,50,50,2023,6,June,17,Saturday,2,TRUE,Young Adult,June
+543,7/26/2023,CUST543,Male,49,Beauty,2,300,600,2023,7,July,26,Wednesday,3,FALSE,Middle Age,July
+544,12/23/2023,CUST544,Female,27,Electronics,1,25,25,2023,12,December,23,Saturday,4,TRUE,Adult,December
+545,6/1/2023,CUST545,Male,27,Clothing,2,25,50,2023,6,June,1,Thursday,2,FALSE,Adult,June
+546,10/11/2023,CUST546,Female,36,Electronics,4,50,200,2023,10,October,11,Wednesday,4,FALSE,Middle Age,October
+547,3/7/2023,CUST547,Male,63,Clothing,4,500,2000,2023,3,March,7,Tuesday,1,FALSE,Senior,March
+548,4/9/2023,CUST548,Female,51,Clothing,2,30,60,2023,4,April,9,Sunday,2,TRUE,Middle Age,April
+549,8/4/2023,CUST549,Female,50,Beauty,2,50,100,2023,8,August,4,Friday,3,FALSE,Middle Age,August
+550,12/7/2023,CUST550,Male,40,Clothing,3,300,900,2023,12,December,7,Thursday,4,FALSE,Middle Age,December
+551,7/14/2023,CUST551,Male,45,Electronics,3,300,900,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+552,12/13/2023,CUST552,Female,49,Electronics,3,25,75,2023,12,December,13,Wednesday,4,FALSE,Middle Age,December
+553,3/31/2023,CUST553,Male,24,Clothing,4,300,1200,2023,3,March,31,Friday,1,FALSE,Young Adult,March
+554,11/12/2023,CUST554,Female,46,Beauty,3,50,150,2023,11,November,12,Sunday,4,TRUE,Middle Age,November
+555,10/19/2023,CUST555,Male,25,Beauty,1,300,300,2023,10,October,19,Thursday,4,FALSE,Young Adult,October
+556,6/4/2023,CUST556,Female,18,Electronics,1,50,50,2023,6,June,4,Sunday,2,TRUE,Teen,June
+557,7/27/2023,CUST557,Female,20,Beauty,3,30,90,2023,7,July,27,Thursday,3,FALSE,Young Adult,July
+558,10/8/2023,CUST558,Female,41,Clothing,1,25,25,2023,10,October,8,Sunday,4,TRUE,Middle Age,October
+559,1/1/2023,CUST559,Female,40,Clothing,4,300,1200,2023,1,January,1,Sunday,1,TRUE,Middle Age,January
+560,6/5/2023,CUST560,Female,25,Electronics,1,50,50,2023,6,June,5,Monday,2,FALSE,Young Adult,June
+561,5/27/2023,CUST561,Female,64,Clothing,4,500,2000,2023,5,May,27,Saturday,2,TRUE,Senior,May
+562,4/18/2023,CUST562,Male,54,Electronics,2,25,50,2023,4,April,18,Tuesday,2,FALSE,Middle Age,April
+563,8/9/2023,CUST563,Male,20,Clothing,2,30,60,2023,8,August,9,Wednesday,3,FALSE,Young Adult,August
+564,10/24/2023,CUST564,Male,50,Electronics,2,50,100,2023,10,October,24,Tuesday,4,FALSE,Middle Age,October
+565,11/7/2023,CUST565,Female,45,Beauty,2,30,60,2023,11,November,7,Tuesday,4,FALSE,Middle Age,November
+566,12/2/2023,CUST566,Female,64,Clothing,1,30,30,2023,12,December,2,Saturday,4,TRUE,Senior,December
+567,6/14/2023,CUST567,Female,25,Clothing,3,300,900,2023,6,June,14,Wednesday,2,FALSE,Young Adult,June
+568,8/27/2023,CUST568,Female,51,Electronics,1,300,300,2023,8,August,27,Sunday,3,TRUE,Middle Age,August
+569,8/15/2023,CUST569,Male,52,Electronics,4,50,200,2023,8,August,15,Tuesday,3,FALSE,Middle Age,August
+570,8/15/2023,CUST570,Male,49,Clothing,1,500,500,2023,8,August,15,Tuesday,3,FALSE,Middle Age,August
+571,12/12/2023,CUST571,Female,41,Electronics,1,50,50,2023,12,December,12,Tuesday,4,FALSE,Middle Age,December
+572,4/20/2023,CUST572,Male,31,Clothing,4,500,2000,2023,4,April,20,Thursday,2,FALSE,Adult,April
+573,9/19/2023,CUST573,Male,49,Beauty,2,30,60,2023,9,September,19,Tuesday,3,FALSE,Middle Age,September
+574,8/31/2023,CUST574,Female,63,Electronics,2,25,50,2023,8,August,31,Thursday,3,FALSE,Senior,August
+575,3/28/2023,CUST575,Male,60,Clothing,2,50,100,2023,3,March,28,Tuesday,1,FALSE,Senior,March
+576,12/4/2023,CUST576,Female,33,Beauty,3,50,150,2023,12,December,4,Monday,4,FALSE,Adult,December
+577,2/13/2023,CUST577,Male,21,Beauty,4,500,2000,2023,2,February,13,Monday,1,FALSE,Young Adult,February
+578,5/26/2023,CUST578,Female,54,Clothing,4,30,120,2023,5,May,26,Friday,2,FALSE,Middle Age,May
+579,9/21/2023,CUST579,Female,38,Electronics,1,30,30,2023,9,September,21,Thursday,3,FALSE,Middle Age,September
+580,12/6/2023,CUST580,Female,31,Clothing,3,500,1500,2023,12,December,6,Wednesday,4,FALSE,Adult,December
+581,11/21/2023,CUST581,Female,48,Beauty,2,30,60,2023,11,November,21,Tuesday,4,FALSE,Middle Age,November
+582,11/14/2023,CUST582,Male,35,Clothing,3,300,900,2023,11,November,14,Tuesday,4,FALSE,Adult,November
+583,6/21/2023,CUST583,Female,24,Electronics,4,25,100,2023,6,June,21,Wednesday,2,FALSE,Young Adult,June
+584,2/17/2023,CUST584,Female,27,Beauty,4,50,200,2023,2,February,17,Friday,1,FALSE,Adult,February
+585,5/1/2023,CUST585,Female,24,Clothing,1,25,25,2023,5,May,1,Monday,2,FALSE,Young Adult,May
+586,12/11/2023,CUST586,Male,50,Electronics,1,50,50,2023,12,December,11,Monday,4,FALSE,Middle Age,December
+587,6/8/2023,CUST587,Female,40,Beauty,4,300,1200,2023,6,June,8,Thursday,2,FALSE,Middle Age,June
+588,4/26/2023,CUST588,Male,38,Electronics,2,30,60,2023,4,April,26,Wednesday,2,FALSE,Middle Age,April
+589,4/12/2023,CUST589,Female,36,Beauty,2,500,1000,2023,4,April,12,Wednesday,2,FALSE,Middle Age,April
+590,3/17/2023,CUST590,Male,36,Clothing,3,300,900,2023,3,March,17,Friday,1,FALSE,Middle Age,March
+591,1/13/2023,CUST591,Male,53,Electronics,4,25,100,2023,1,January,13,Friday,1,FALSE,Middle Age,January
+592,1/24/2023,CUST592,Female,46,Beauty,4,500,2000,2023,1,January,24,Tuesday,1,FALSE,Middle Age,January
+593,5/6/2023,CUST593,Male,35,Electronics,2,30,60,2023,5,May,6,Saturday,2,TRUE,Adult,May
+594,9/1/2023,CUST594,Female,19,Electronics,2,300,600,2023,9,September,1,Friday,3,FALSE,Young Adult,September
+595,11/9/2023,CUST595,Female,18,Clothing,4,500,2000,2023,11,November,9,Thursday,4,FALSE,Teen,November
+596,2/7/2023,CUST596,Female,64,Electronics,1,300,300,2023,2,February,7,Tuesday,1,FALSE,Senior,February
+597,8/22/2023,CUST597,Male,22,Beauty,4,300,1200,2023,8,August,22,Tuesday,3,FALSE,Young Adult,August
+598,8/1/2023,CUST598,Male,37,Beauty,4,30,120,2023,8,August,1,Tuesday,3,FALSE,Middle Age,August
+599,11/19/2023,CUST599,Female,28,Beauty,2,50,100,2023,11,November,19,Sunday,4,TRUE,Adult,November
+600,10/22/2023,CUST600,Female,59,Beauty,2,500,1000,2023,10,October,22,Sunday,4,TRUE,Senior,October
+601,4/10/2023,CUST601,Male,19,Clothing,1,30,30,2023,4,April,10,Monday,2,FALSE,Young Adult,April
+602,12/23/2023,CUST602,Female,20,Electronics,1,300,300,2023,12,December,23,Saturday,4,TRUE,Young Adult,December
+603,7/16/2023,CUST603,Female,40,Clothing,3,30,90,2023,7,July,16,Sunday,3,TRUE,Middle Age,July
+604,9/11/2023,CUST604,Female,29,Electronics,4,50,200,2023,9,September,11,Monday,3,FALSE,Adult,September
+605,7/24/2023,CUST605,Male,37,Electronics,2,500,1000,2023,7,July,24,Monday,3,FALSE,Middle Age,July
+606,5/5/2023,CUST606,Male,22,Electronics,1,50,50,2023,5,May,5,Friday,2,FALSE,Young Adult,May
+607,3/17/2023,CUST607,Male,54,Clothing,3,25,75,2023,3,March,17,Friday,1,FALSE,Middle Age,March
+608,12/2/2023,CUST608,Female,55,Electronics,3,500,1500,2023,12,December,2,Saturday,4,TRUE,Middle Age,December
+609,12/19/2023,CUST609,Female,47,Clothing,2,50,100,2023,12,December,19,Tuesday,4,FALSE,Middle Age,December
+610,1/3/2023,CUST610,Female,26,Beauty,2,300,600,2023,1,January,3,Tuesday,1,FALSE,Adult,January
+611,2/24/2023,CUST611,Male,51,Beauty,3,500,1500,2023,2,February,24,Friday,1,FALSE,Middle Age,February
+612,8/6/2023,CUST612,Female,61,Electronics,1,500,500,2023,8,August,6,Sunday,3,TRUE,Senior,August
+613,4/23/2023,CUST613,Female,52,Clothing,3,30,90,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+614,4/1/2023,CUST614,Female,39,Beauty,4,300,1200,2023,4,April,1,Saturday,2,TRUE,Middle Age,April
+615,12/23/2023,CUST615,Female,61,Clothing,4,25,100,2023,12,December,23,Saturday,4,TRUE,Senior,December
+616,9/23/2023,CUST616,Male,41,Clothing,2,50,100,2023,9,September,23,Saturday,3,TRUE,Middle Age,September
+617,8/26/2023,CUST617,Male,34,Electronics,1,30,30,2023,8,August,26,Saturday,3,TRUE,Adult,August
+618,1/26/2023,CUST618,Female,27,Beauty,1,50,50,2023,1,January,26,Thursday,1,FALSE,Adult,January
+619,10/13/2023,CUST619,Male,47,Electronics,4,25,100,2023,10,October,13,Friday,4,FALSE,Middle Age,October
+620,5/8/2023,CUST620,Male,63,Electronics,3,25,75,2023,5,May,8,Monday,2,FALSE,Senior,May
+621,3/4/2023,CUST621,Female,40,Beauty,2,500,1000,2023,3,March,4,Saturday,1,TRUE,Middle Age,March
+622,8/22/2023,CUST622,Female,49,Beauty,3,25,75,2023,8,August,22,Tuesday,3,FALSE,Middle Age,August
+623,3/10/2023,CUST623,Male,34,Clothing,3,50,150,2023,3,March,10,Friday,1,FALSE,Adult,March
+624,8/26/2023,CUST624,Female,34,Beauty,3,300,900,2023,8,August,26,Saturday,3,TRUE,Adult,August
+625,12/8/2023,CUST625,Male,31,Clothing,1,300,300,2023,12,December,8,Friday,4,FALSE,Adult,December
+626,9/29/2023,CUST626,Female,26,Clothing,4,500,2000,2023,9,September,29,Friday,3,FALSE,Adult,September
+627,10/14/2023,CUST627,Male,57,Clothing,1,50,50,2023,10,October,14,Saturday,4,TRUE,Middle Age,October
+628,11/1/2023,CUST628,Female,19,Beauty,4,50,200,2023,11,November,1,Wednesday,4,FALSE,Young Adult,November
+629,6/12/2023,CUST629,Male,62,Electronics,2,25,50,2023,6,June,12,Monday,2,FALSE,Senior,June
+630,8/15/2023,CUST630,Male,42,Clothing,2,50,100,2023,8,August,15,Tuesday,3,FALSE,Middle Age,August
+631,11/10/2023,CUST631,Male,56,Electronics,3,30,90,2023,11,November,10,Friday,4,FALSE,Middle Age,November
+632,9/16/2023,CUST632,Female,26,Electronics,4,25,100,2023,9,September,16,Saturday,3,TRUE,Adult,September
+633,8/7/2023,CUST633,Male,39,Beauty,4,30,120,2023,8,August,7,Monday,3,FALSE,Middle Age,August
+634,10/8/2023,CUST634,Male,60,Electronics,4,500,2000,2023,10,October,8,Sunday,4,TRUE,Senior,October
+635,8/17/2023,CUST635,Female,63,Electronics,3,300,900,2023,8,August,17,Thursday,3,FALSE,Senior,August
+636,3/23/2023,CUST636,Female,21,Beauty,3,500,1500,2023,3,March,23,Thursday,1,FALSE,Young Adult,March
+637,9/1/2023,CUST637,Male,43,Clothing,2,300,600,2023,9,September,1,Friday,3,FALSE,Middle Age,September
+638,8/19/2023,CUST638,Male,46,Electronics,1,500,500,2023,8,August,19,Saturday,3,TRUE,Middle Age,August
+639,5/13/2023,CUST639,Female,62,Beauty,4,50,200,2023,5,May,13,Saturday,2,TRUE,Senior,May
+640,5/7/2023,CUST640,Female,51,Electronics,4,30,120,2023,5,May,7,Sunday,2,TRUE,Middle Age,May
+641,11/23/2023,CUST641,Female,40,Electronics,1,300,300,2023,11,November,23,Thursday,4,FALSE,Middle Age,November
+642,5/22/2023,CUST642,Female,54,Clothing,4,25,100,2023,5,May,22,Monday,2,FALSE,Middle Age,May
+643,9/24/2023,CUST643,Female,28,Electronics,3,30,90,2023,9,September,24,Sunday,3,TRUE,Adult,September
+644,9/6/2023,CUST644,Male,23,Beauty,3,25,75,2023,9,September,6,Wednesday,3,FALSE,Young Adult,September
+645,11/17/2023,CUST645,Female,35,Electronics,4,30,120,2023,11,November,17,Friday,4,FALSE,Adult,November
+646,5/3/2023,CUST646,Male,38,Clothing,3,30,90,2023,5,May,3,Wednesday,2,FALSE,Middle Age,May
+647,5/21/2023,CUST647,Male,59,Clothing,3,500,1500,2023,5,May,21,Sunday,2,TRUE,Senior,May
+648,8/14/2023,CUST648,Male,53,Beauty,4,300,1200,2023,8,August,14,Monday,3,FALSE,Middle Age,August
+649,2/9/2023,CUST649,Female,58,Clothing,2,300,600,2023,2,February,9,Thursday,1,FALSE,Middle Age,February
+650,1/1/2024,CUST650,Male,55,Electronics,1,30,30,2024,1,January,1,Monday,1,FALSE,Middle Age,January
+651,5/27/2023,CUST651,Male,51,Clothing,3,50,150,2023,5,May,27,Saturday,2,TRUE,Middle Age,May
+652,5/1/2023,CUST652,Female,34,Beauty,2,50,100,2023,5,May,1,Monday,2,FALSE,Adult,May
+653,5/20/2023,CUST653,Male,54,Clothing,3,25,75,2023,5,May,20,Saturday,2,TRUE,Middle Age,May
+654,6/21/2023,CUST654,Male,42,Clothing,3,25,75,2023,6,June,21,Wednesday,2,FALSE,Middle Age,June
+655,6/13/2023,CUST655,Female,55,Clothing,1,500,500,2023,6,June,13,Tuesday,2,FALSE,Middle Age,June
+656,10/4/2023,CUST656,Male,29,Beauty,3,30,90,2023,10,October,4,Wednesday,4,FALSE,Adult,October
+657,2/11/2023,CUST657,Male,40,Clothing,1,25,25,2023,2,February,11,Saturday,1,TRUE,Middle Age,February
+658,3/12/2023,CUST658,Male,59,Clothing,1,25,25,2023,3,March,12,Sunday,1,TRUE,Senior,March
+659,3/19/2023,CUST659,Female,39,Electronics,1,30,30,2023,3,March,19,Sunday,1,TRUE,Middle Age,March
+660,4/29/2023,CUST660,Female,38,Beauty,2,500,1000,2023,4,April,29,Saturday,2,TRUE,Middle Age,April
+661,7/16/2023,CUST661,Female,44,Clothing,4,25,100,2023,7,July,16,Sunday,3,TRUE,Middle Age,July
+662,12/22/2023,CUST662,Male,48,Beauty,2,500,1000,2023,12,December,22,Friday,4,FALSE,Middle Age,December
+663,3/20/2023,CUST663,Male,23,Clothing,4,300,1200,2023,3,March,20,Monday,1,FALSE,Young Adult,March
+664,12/28/2023,CUST664,Female,44,Clothing,4,500,2000,2023,12,December,28,Thursday,4,FALSE,Middle Age,December
+665,4/20/2023,CUST665,Male,57,Clothing,1,50,50,2023,4,April,20,Thursday,2,FALSE,Middle Age,April
+666,2/2/2023,CUST666,Male,51,Electronics,3,50,150,2023,2,February,2,Thursday,1,FALSE,Middle Age,February
+667,8/1/2023,CUST667,Female,29,Electronics,1,500,500,2023,8,August,1,Tuesday,3,FALSE,Adult,August
+668,7/28/2023,CUST668,Female,62,Electronics,3,50,150,2023,7,July,28,Friday,3,FALSE,Senior,July
+669,6/19/2023,CUST669,Male,24,Beauty,4,300,1200,2023,6,June,19,Monday,2,FALSE,Young Adult,June
+670,10/5/2023,CUST670,Male,27,Beauty,1,30,30,2023,10,October,5,Thursday,4,FALSE,Adult,October
+671,8/27/2023,CUST671,Male,62,Electronics,3,50,150,2023,8,August,27,Sunday,3,TRUE,Senior,August
+672,8/1/2023,CUST672,Female,34,Beauty,2,50,100,2023,8,August,1,Tuesday,3,FALSE,Adult,August
+673,2/1/2023,CUST673,Female,43,Clothing,3,500,1500,2023,2,February,1,Wednesday,1,FALSE,Middle Age,February
+674,4/16/2023,CUST674,Female,38,Clothing,1,300,300,2023,4,April,16,Sunday,2,TRUE,Middle Age,April
+675,8/4/2023,CUST675,Female,45,Clothing,2,30,60,2023,8,August,4,Friday,3,FALSE,Middle Age,August
+676,7/19/2023,CUST676,Male,63,Electronics,3,500,1500,2023,7,July,19,Wednesday,3,FALSE,Senior,July
+677,10/27/2023,CUST677,Female,19,Beauty,3,500,1500,2023,10,October,27,Friday,4,FALSE,Young Adult,October
+678,12/23/2023,CUST678,Female,60,Electronics,3,300,900,2023,12,December,23,Saturday,4,TRUE,Senior,December
+679,1/11/2023,CUST679,Female,18,Beauty,3,30,90,2023,1,January,11,Wednesday,1,FALSE,Teen,January
+680,10/22/2023,CUST680,Female,53,Clothing,3,300,900,2023,10,October,22,Sunday,4,TRUE,Middle Age,October
+681,7/14/2023,CUST681,Female,43,Electronics,2,30,60,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+682,9/2/2023,CUST682,Male,46,Beauty,4,300,1200,2023,9,September,2,Saturday,3,TRUE,Middle Age,September
+683,1/4/2023,CUST683,Male,38,Beauty,2,500,1000,2023,1,January,4,Wednesday,1,FALSE,Middle Age,January
+684,6/30/2023,CUST684,Female,28,Clothing,2,500,1000,2023,6,June,30,Friday,2,FALSE,Adult,June
+685,6/2/2023,CUST685,Male,57,Electronics,2,25,50,2023,6,June,2,Friday,2,FALSE,Middle Age,June
+686,7/19/2023,CUST686,Female,28,Electronics,4,50,200,2023,7,July,19,Wednesday,3,FALSE,Adult,July
+687,8/3/2023,CUST687,Female,53,Electronics,1,300,300,2023,8,August,3,Thursday,3,FALSE,Middle Age,August
+688,10/3/2023,CUST688,Male,56,Clothing,4,25,100,2023,10,October,3,Tuesday,4,FALSE,Middle Age,October
+689,10/7/2023,CUST689,Male,57,Electronics,2,50,100,2023,10,October,7,Saturday,4,TRUE,Middle Age,October
+690,11/5/2023,CUST690,Female,52,Clothing,3,300,900,2023,11,November,5,Sunday,4,TRUE,Middle Age,November
+691,4/23/2023,CUST691,Female,51,Clothing,3,30,90,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+692,9/7/2023,CUST692,Female,64,Clothing,2,50,100,2023,9,September,7,Thursday,3,FALSE,Senior,September
+693,4/23/2023,CUST693,Male,41,Beauty,3,500,1500,2023,4,April,23,Sunday,2,TRUE,Middle Age,April
+694,5/20/2023,CUST694,Female,39,Electronics,2,25,50,2023,5,May,20,Saturday,2,TRUE,Middle Age,May
+695,8/12/2023,CUST695,Female,22,Electronics,3,50,150,2023,8,August,12,Saturday,3,TRUE,Young Adult,August
+696,9/6/2023,CUST696,Female,50,Clothing,4,50,200,2023,9,September,6,Wednesday,3,FALSE,Middle Age,September
+697,1/15/2023,CUST697,Male,53,Clothing,1,500,500,2023,1,January,15,Sunday,1,TRUE,Middle Age,January
+698,7/19/2023,CUST698,Female,64,Electronics,1,300,300,2023,7,July,19,Wednesday,3,FALSE,Senior,July
+699,6/22/2023,CUST699,Female,37,Clothing,4,30,120,2023,6,June,22,Thursday,2,FALSE,Middle Age,June
+700,12/9/2023,CUST700,Male,36,Electronics,4,500,2000,2023,12,December,9,Saturday,4,TRUE,Middle Age,December
+701,12/14/2023,CUST701,Female,52,Beauty,2,30,60,2023,12,December,14,Thursday,4,FALSE,Middle Age,December
+702,7/27/2023,CUST702,Female,60,Clothing,2,300,600,2023,7,July,27,Thursday,3,FALSE,Senior,July
+703,3/26/2023,CUST703,Male,34,Electronics,2,50,100,2023,3,March,26,Sunday,1,TRUE,Adult,March
+704,8/28/2023,CUST704,Female,62,Clothing,3,30,90,2023,8,August,28,Monday,3,FALSE,Senior,August
+705,3/7/2023,CUST705,Male,60,Electronics,2,25,50,2023,3,March,7,Tuesday,1,FALSE,Senior,March
+706,11/15/2023,CUST706,Male,51,Electronics,4,25,100,2023,11,November,15,Wednesday,4,FALSE,Middle Age,November
+707,10/1/2023,CUST707,Female,26,Clothing,1,500,500,2023,10,October,1,Sunday,4,TRUE,Adult,October
+708,1/14/2023,CUST708,Female,43,Beauty,3,300,900,2023,1,January,14,Saturday,1,TRUE,Middle Age,January
+709,7/21/2023,CUST709,Female,19,Electronics,2,500,1000,2023,7,July,21,Friday,3,FALSE,Young Adult,July
+710,10/31/2023,CUST710,Female,26,Electronics,3,500,1500,2023,10,October,31,Tuesday,4,FALSE,Adult,October
+711,10/16/2023,CUST711,Male,26,Electronics,3,500,1500,2023,10,October,16,Monday,4,FALSE,Adult,October
+712,12/6/2023,CUST712,Female,57,Beauty,2,25,50,2023,12,December,6,Wednesday,4,FALSE,Middle Age,December
+713,1/14/2023,CUST713,Male,34,Beauty,3,25,75,2023,1,January,14,Saturday,1,TRUE,Adult,January
+714,2/12/2023,CUST714,Female,18,Clothing,1,500,500,2023,2,February,12,Sunday,1,TRUE,Teen,February
+715,11/26/2023,CUST715,Female,42,Beauty,4,25,100,2023,11,November,26,Sunday,4,TRUE,Middle Age,November
+716,8/8/2023,CUST716,Female,60,Clothing,4,300,1200,2023,8,August,8,Tuesday,3,FALSE,Senior,August
+717,3/11/2023,CUST717,Male,57,Clothing,1,500,500,2023,3,March,11,Saturday,1,TRUE,Middle Age,March
+718,8/25/2023,CUST718,Female,59,Beauty,3,25,75,2023,8,August,25,Friday,3,FALSE,Senior,August
+719,4/4/2023,CUST719,Female,42,Clothing,2,30,60,2023,4,April,4,Tuesday,2,FALSE,Middle Age,April
+720,1/26/2023,CUST720,Female,56,Beauty,3,500,1500,2023,1,January,26,Thursday,1,FALSE,Middle Age,January
+721,5/14/2023,CUST721,Female,52,Clothing,1,500,500,2023,5,May,14,Sunday,2,TRUE,Middle Age,May
+722,7/14/2023,CUST722,Male,20,Beauty,3,300,900,2023,7,July,14,Friday,3,FALSE,Young Adult,July
+723,6/17/2023,CUST723,Female,54,Beauty,4,50,200,2023,6,June,17,Saturday,2,TRUE,Middle Age,June
+724,4/19/2023,CUST724,Male,61,Clothing,3,50,150,2023,4,April,19,Wednesday,2,FALSE,Senior,April
+725,8/21/2023,CUST725,Male,61,Electronics,1,300,300,2023,8,August,21,Monday,3,FALSE,Senior,August
+726,6/17/2023,CUST726,Male,47,Clothing,4,300,1200,2023,6,June,17,Saturday,2,TRUE,Middle Age,June
+727,6/22/2023,CUST727,Male,55,Beauty,3,300,900,2023,6,June,22,Thursday,2,FALSE,Middle Age,June
+728,7/14/2023,CUST728,Male,51,Electronics,3,50,150,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+729,5/23/2023,CUST729,Male,29,Clothing,4,300,1200,2023,5,May,23,Tuesday,2,FALSE,Adult,May
+730,8/4/2023,CUST730,Female,36,Clothing,2,25,50,2023,8,August,4,Friday,3,FALSE,Middle Age,August
+731,5/10/2023,CUST731,Male,54,Clothing,4,500,2000,2023,5,May,10,Wednesday,2,FALSE,Middle Age,May
+732,2/11/2023,CUST732,Male,61,Electronics,2,500,1000,2023,2,February,11,Saturday,1,TRUE,Senior,February
+733,8/29/2023,CUST733,Male,34,Beauty,1,30,30,2023,8,August,29,Tuesday,3,FALSE,Adult,August
+734,1/10/2023,CUST734,Female,27,Clothing,1,30,30,2023,1,January,10,Tuesday,1,FALSE,Adult,January
+735,10/4/2023,CUST735,Female,64,Clothing,4,500,2000,2023,10,October,4,Wednesday,4,FALSE,Senior,October
+736,1/27/2023,CUST736,Male,29,Clothing,4,25,100,2023,1,January,27,Friday,1,FALSE,Adult,January
+737,6/29/2023,CUST737,Female,33,Clothing,1,50,50,2023,6,June,29,Thursday,2,FALSE,Adult,June
+738,4/25/2023,CUST738,Male,41,Clothing,2,50,100,2023,4,April,25,Tuesday,2,FALSE,Middle Age,April
+739,11/29/2023,CUST739,Male,36,Beauty,1,25,25,2023,11,November,29,Wednesday,4,FALSE,Middle Age,November
+740,2/5/2023,CUST740,Female,25,Beauty,4,50,200,2023,2,February,5,Sunday,1,TRUE,Young Adult,February
+741,11/30/2023,CUST741,Male,48,Clothing,1,300,300,2023,11,November,30,Thursday,4,FALSE,Middle Age,November
+742,1/21/2023,CUST742,Female,38,Electronics,4,500,2000,2023,1,January,21,Saturday,1,TRUE,Middle Age,January
+743,1/16/2023,CUST743,Female,34,Beauty,4,500,2000,2023,1,January,16,Monday,1,FALSE,Adult,January
+744,5/7/2023,CUST744,Male,40,Electronics,1,25,25,2023,5,May,7,Sunday,2,TRUE,Middle Age,May
+745,4/13/2023,CUST745,Male,54,Beauty,2,50,100,2023,4,April,13,Thursday,2,FALSE,Middle Age,April
+746,1/11/2023,CUST746,Female,33,Clothing,3,30,90,2023,1,January,11,Wednesday,1,FALSE,Adult,January
+747,11/15/2023,CUST747,Male,23,Beauty,1,30,30,2023,11,November,15,Wednesday,4,FALSE,Young Adult,November
+748,3/20/2023,CUST748,Male,25,Clothing,3,50,150,2023,3,March,20,Monday,1,FALSE,Young Adult,March
+749,5/3/2023,CUST749,Male,42,Beauty,1,30,30,2023,5,May,3,Wednesday,2,FALSE,Middle Age,May
+750,3/6/2023,CUST750,Female,35,Clothing,3,25,75,2023,3,March,6,Monday,1,FALSE,Adult,March
+751,8/31/2023,CUST751,Female,42,Clothing,2,25,50,2023,8,August,31,Thursday,3,FALSE,Middle Age,August
+752,12/9/2023,CUST752,Male,29,Clothing,2,50,100,2023,12,December,9,Saturday,4,TRUE,Adult,December
+753,2/28/2023,CUST753,Female,32,Clothing,1,30,30,2023,2,February,28,Tuesday,1,FALSE,Adult,February
+754,10/16/2023,CUST754,Female,43,Electronics,4,25,100,2023,10,October,16,Monday,4,FALSE,Middle Age,October
+755,4/22/2023,CUST755,Female,58,Clothing,3,25,75,2023,4,April,22,Saturday,2,TRUE,Middle Age,April
+756,8/27/2023,CUST756,Female,62,Electronics,4,300,1200,2023,8,August,27,Sunday,3,TRUE,Senior,August
+757,12/25/2023,CUST757,Female,43,Electronics,4,300,1200,2023,12,December,25,Monday,4,FALSE,Middle Age,December
+758,5/12/2023,CUST758,Male,64,Clothing,4,25,100,2023,5,May,12,Friday,2,FALSE,Senior,May
+759,7/8/2023,CUST759,Male,49,Electronics,2,50,100,2023,7,July,8,Saturday,3,TRUE,Middle Age,July
+760,3/27/2023,CUST760,Male,27,Beauty,1,500,500,2023,3,March,27,Monday,1,FALSE,Adult,March
+761,11/7/2023,CUST761,Female,33,Clothing,1,500,500,2023,11,November,7,Tuesday,4,FALSE,Adult,November
+762,11/7/2023,CUST762,Female,24,Electronics,2,25,50,2023,11,November,7,Tuesday,4,FALSE,Young Adult,November
+763,2/28/2023,CUST763,Male,34,Clothing,2,25,50,2023,2,February,28,Tuesday,1,FALSE,Adult,February
+764,3/25/2023,CUST764,Female,40,Clothing,1,25,25,2023,3,March,25,Saturday,1,TRUE,Middle Age,March
+765,6/9/2023,CUST765,Male,43,Clothing,4,50,200,2023,6,June,9,Friday,2,FALSE,Middle Age,June
+766,2/25/2023,CUST766,Male,38,Electronics,3,300,900,2023,2,February,25,Saturday,1,TRUE,Middle Age,February
+767,10/24/2023,CUST767,Male,39,Beauty,3,25,75,2023,10,October,24,Tuesday,4,FALSE,Middle Age,October
+768,1/14/2023,CUST768,Female,24,Beauty,3,25,75,2023,1,January,14,Saturday,1,TRUE,Young Adult,January
+769,6/9/2023,CUST769,Female,31,Electronics,4,30,120,2023,6,June,9,Friday,2,FALSE,Adult,June
+770,10/22/2023,CUST770,Male,32,Clothing,1,50,50,2023,10,October,22,Sunday,4,TRUE,Adult,October
+771,12/13/2023,CUST771,Male,24,Electronics,2,25,50,2023,12,December,13,Wednesday,4,FALSE,Young Adult,December
+772,7/12/2023,CUST772,Male,26,Electronics,1,30,30,2023,7,July,12,Wednesday,3,FALSE,Adult,July
+773,7/23/2023,CUST773,Male,25,Electronics,4,500,2000,2023,7,July,23,Sunday,3,TRUE,Young Adult,July
+774,4/12/2023,CUST774,Female,40,Clothing,2,25,50,2023,4,April,12,Wednesday,2,FALSE,Middle Age,April
+775,2/8/2023,CUST775,Female,46,Electronics,4,25,100,2023,2,February,8,Wednesday,1,FALSE,Middle Age,February
+776,10/31/2023,CUST776,Male,35,Clothing,3,30,90,2023,10,October,31,Tuesday,4,FALSE,Adult,October
+777,12/20/2023,CUST777,Male,48,Electronics,3,50,150,2023,12,December,20,Wednesday,4,FALSE,Middle Age,December
+778,11/18/2023,CUST778,Female,47,Beauty,4,25,100,2023,11,November,18,Saturday,4,TRUE,Middle Age,November
+779,5/5/2023,CUST779,Female,56,Electronics,2,500,1000,2023,5,May,5,Friday,2,FALSE,Middle Age,May
+780,2/22/2023,CUST780,Male,52,Electronics,2,25,50,2023,2,February,22,Wednesday,1,FALSE,Middle Age,February
+781,12/23/2023,CUST781,Male,35,Beauty,1,500,500,2023,12,December,23,Saturday,4,TRUE,Adult,December
+782,6/4/2023,CUST782,Male,59,Clothing,3,300,900,2023,6,June,4,Sunday,2,TRUE,Senior,June
+783,12/17/2023,CUST783,Female,56,Clothing,1,300,300,2023,12,December,17,Sunday,4,TRUE,Middle Age,December
+784,11/4/2023,CUST784,Female,34,Electronics,1,500,500,2023,11,November,4,Saturday,4,TRUE,Adult,November
+785,3/3/2023,CUST785,Female,31,Beauty,4,50,200,2023,3,March,3,Friday,1,FALSE,Adult,March
+786,10/17/2023,CUST786,Male,48,Clothing,4,25,100,2023,10,October,17,Tuesday,4,FALSE,Middle Age,October
+787,1/22/2023,CUST787,Male,41,Electronics,1,25,25,2023,1,January,22,Sunday,1,TRUE,Middle Age,January
+788,6/27/2023,CUST788,Female,52,Beauty,3,300,900,2023,6,June,27,Tuesday,2,FALSE,Middle Age,June
+789,9/30/2023,CUST789,Female,61,Clothing,4,500,2000,2023,9,September,30,Saturday,3,TRUE,Senior,September
+790,8/8/2023,CUST790,Male,62,Clothing,1,25,25,2023,8,August,8,Tuesday,3,FALSE,Senior,August
+791,12/5/2023,CUST791,Female,51,Beauty,1,25,25,2023,12,December,5,Tuesday,4,FALSE,Middle Age,December
+792,7/9/2023,CUST792,Female,20,Beauty,1,50,50,2023,7,July,9,Sunday,3,TRUE,Young Adult,July
+793,2/5/2023,CUST793,Male,54,Beauty,1,30,30,2023,2,February,5,Sunday,1,TRUE,Middle Age,February
+794,9/17/2023,CUST794,Female,60,Beauty,1,300,300,2023,9,September,17,Sunday,3,TRUE,Senior,September
+795,11/28/2023,CUST795,Male,57,Electronics,1,300,300,2023,11,November,28,Tuesday,4,FALSE,Middle Age,November
+796,6/24/2023,CUST796,Male,43,Beauty,4,30,120,2023,6,June,24,Saturday,2,TRUE,Middle Age,June
+797,1/7/2023,CUST797,Male,40,Clothing,3,25,75,2023,1,January,7,Saturday,1,TRUE,Middle Age,January
+798,8/4/2023,CUST798,Male,61,Clothing,1,50,50,2023,8,August,4,Friday,3,FALSE,Senior,August
+799,9/8/2023,CUST799,Male,56,Electronics,2,50,100,2023,9,September,8,Friday,3,FALSE,Middle Age,September
+800,2/24/2023,CUST800,Male,32,Clothing,4,300,1200,2023,2,February,24,Friday,1,FALSE,Adult,February
+801,8/10/2023,CUST801,Male,21,Clothing,4,50,200,2023,8,August,10,Thursday,3,FALSE,Young Adult,August
+802,7/5/2023,CUST802,Female,46,Beauty,1,30,30,2023,7,July,5,Wednesday,3,FALSE,Middle Age,July
+803,11/22/2023,CUST803,Male,39,Clothing,4,25,100,2023,11,November,22,Wednesday,4,FALSE,Middle Age,November
+804,8/24/2023,CUST804,Male,42,Electronics,1,30,30,2023,8,August,24,Thursday,3,FALSE,Middle Age,August
+805,12/29/2023,CUST805,Female,30,Beauty,3,500,1500,2023,12,December,29,Friday,4,FALSE,Adult,December
+806,3/20/2023,CUST806,Female,35,Beauty,3,300,900,2023,3,March,20,Monday,1,FALSE,Adult,March
+807,8/11/2023,CUST807,Female,50,Electronics,4,50,200,2023,8,August,11,Friday,3,FALSE,Middle Age,August
+808,4/1/2023,CUST808,Male,33,Beauty,4,500,2000,2023,4,April,1,Saturday,2,TRUE,Adult,April
+809,9/25/2023,CUST809,Female,62,Beauty,2,50,100,2023,9,September,25,Monday,3,FALSE,Senior,September
+810,11/30/2023,CUST810,Male,59,Electronics,4,25,100,2023,11,November,30,Thursday,4,FALSE,Senior,November
+811,5/19/2023,CUST811,Male,61,Beauty,2,25,50,2023,5,May,19,Friday,2,FALSE,Senior,May
+812,11/12/2023,CUST812,Male,19,Electronics,3,25,75,2023,11,November,12,Sunday,4,TRUE,Young Adult,November
+813,10/3/2023,CUST813,Male,52,Electronics,3,50,150,2023,10,October,3,Tuesday,4,FALSE,Middle Age,October
+814,9/5/2023,CUST814,Female,59,Clothing,1,500,500,2023,9,September,5,Tuesday,3,FALSE,Senior,September
+815,8/27/2023,CUST815,Female,51,Clothing,3,25,75,2023,8,August,27,Sunday,3,TRUE,Middle Age,August
+816,8/12/2023,CUST816,Male,47,Beauty,2,500,1000,2023,8,August,12,Saturday,3,TRUE,Middle Age,August
+817,10/31/2023,CUST817,Male,30,Beauty,4,50,200,2023,10,October,31,Tuesday,4,FALSE,Adult,October
+818,5/18/2023,CUST818,Male,30,Electronics,1,500,500,2023,5,May,18,Thursday,2,FALSE,Adult,May
+819,6/15/2023,CUST819,Female,35,Beauty,2,50,100,2023,6,June,15,Thursday,2,FALSE,Adult,June
+820,5/6/2023,CUST820,Male,49,Electronics,4,50,200,2023,5,May,6,Saturday,2,TRUE,Middle Age,May
+821,2/14/2023,CUST821,Male,49,Electronics,1,300,300,2023,2,February,14,Tuesday,1,FALSE,Middle Age,February
+822,5/23/2023,CUST822,Female,52,Beauty,3,50,150,2023,5,May,23,Tuesday,2,FALSE,Middle Age,May
+823,8/19/2023,CUST823,Female,56,Electronics,2,50,100,2023,8,August,19,Saturday,3,TRUE,Middle Age,August
+824,5/5/2023,CUST824,Male,63,Clothing,4,30,120,2023,5,May,5,Friday,2,FALSE,Senior,May
+825,8/26/2023,CUST825,Female,46,Beauty,1,25,25,2023,8,August,26,Saturday,3,TRUE,Middle Age,August
+826,10/19/2023,CUST826,Female,46,Clothing,1,300,300,2023,10,October,19,Thursday,4,FALSE,Middle Age,October
+827,11/9/2023,CUST827,Male,61,Beauty,3,300,900,2023,11,November,9,Thursday,4,FALSE,Senior,November
+828,12/9/2023,CUST828,Female,33,Electronics,4,300,1200,2023,12,December,9,Saturday,4,TRUE,Adult,December
+829,7/14/2023,CUST829,Male,61,Beauty,3,30,90,2023,7,July,14,Friday,3,FALSE,Senior,July
+830,6/22/2023,CUST830,Female,64,Clothing,3,50,150,2023,6,June,22,Thursday,2,FALSE,Senior,June
+831,1/15/2023,CUST831,Male,27,Electronics,4,25,100,2023,1,January,15,Sunday,1,TRUE,Adult,January
+832,9/11/2023,CUST832,Male,47,Beauty,4,500,2000,2023,9,September,11,Monday,3,FALSE,Middle Age,September
+833,6/16/2023,CUST833,Male,42,Beauty,4,50,200,2023,6,June,16,Friday,2,FALSE,Middle Age,June
+834,4/4/2023,CUST834,Female,56,Beauty,2,30,60,2023,4,April,4,Tuesday,2,FALSE,Middle Age,April
+835,9/7/2023,CUST835,Male,37,Clothing,4,50,200,2023,9,September,7,Thursday,3,FALSE,Middle Age,September
+836,4/19/2023,CUST836,Female,22,Clothing,1,50,50,2023,4,April,19,Wednesday,2,FALSE,Young Adult,April
+837,7/1/2023,CUST837,Male,18,Beauty,3,30,90,2023,7,July,1,Saturday,3,TRUE,Teen,July
+838,5/13/2023,CUST838,Male,47,Electronics,2,300,600,2023,5,May,13,Saturday,2,TRUE,Middle Age,May
+839,6/24/2023,CUST839,Female,20,Electronics,4,300,1200,2023,6,June,24,Saturday,2,TRUE,Young Adult,June
+840,5/24/2023,CUST840,Male,62,Clothing,2,25,50,2023,5,May,24,Wednesday,2,FALSE,Senior,May
+841,11/2/2023,CUST841,Male,31,Electronics,4,25,100,2023,11,November,2,Thursday,4,FALSE,Adult,November
+842,12/26/2023,CUST842,Female,47,Clothing,2,300,600,2023,12,December,26,Tuesday,4,FALSE,Middle Age,December
+843,5/22/2023,CUST843,Male,21,Beauty,3,500,1500,2023,5,May,22,Monday,2,FALSE,Young Adult,May
+844,10/12/2023,CUST844,Male,35,Clothing,3,50,150,2023,10,October,12,Thursday,4,FALSE,Adult,October
+845,1/6/2023,CUST845,Male,54,Clothing,1,500,500,2023,1,January,6,Friday,1,FALSE,Middle Age,January
+846,9/22/2023,CUST846,Male,42,Beauty,1,50,50,2023,9,September,22,Friday,3,FALSE,Middle Age,September
+847,4/8/2023,CUST847,Female,18,Electronics,4,300,1200,2023,4,April,8,Saturday,2,TRUE,Teen,April
+848,2/13/2023,CUST848,Female,63,Clothing,3,25,75,2023,2,February,13,Monday,1,FALSE,Senior,February
+849,5/4/2023,CUST849,Male,32,Clothing,2,25,50,2023,5,May,4,Thursday,2,FALSE,Adult,May
+850,7/28/2023,CUST850,Female,26,Beauty,2,500,1000,2023,7,July,28,Friday,3,FALSE,Adult,July
+851,9/8/2023,CUST851,Male,32,Electronics,2,25,50,2023,9,September,8,Friday,3,FALSE,Adult,September
+852,10/12/2023,CUST852,Female,41,Clothing,1,300,300,2023,10,October,12,Thursday,4,FALSE,Middle Age,October
+853,5/4/2023,CUST853,Male,21,Beauty,2,500,1000,2023,5,May,4,Thursday,2,FALSE,Young Adult,May
+854,12/20/2023,CUST854,Male,29,Clothing,1,50,50,2023,12,December,20,Wednesday,4,FALSE,Adult,December
+855,9/1/2023,CUST855,Male,54,Beauty,1,25,25,2023,9,September,1,Friday,3,FALSE,Middle Age,September
+856,11/27/2023,CUST856,Male,54,Electronics,4,30,120,2023,11,November,27,Monday,4,FALSE,Middle Age,November
+857,12/31/2023,CUST857,Male,60,Electronics,2,25,50,2023,12,December,31,Sunday,4,TRUE,Senior,December
+858,9/9/2023,CUST858,Male,23,Electronics,2,50,100,2023,9,September,9,Saturday,3,TRUE,Young Adult,September
+859,8/18/2023,CUST859,Female,56,Electronics,3,500,1500,2023,8,August,18,Friday,3,FALSE,Middle Age,August
+860,1/9/2023,CUST860,Male,63,Clothing,4,50,200,2023,1,January,9,Monday,1,FALSE,Senior,January
+861,2/17/2023,CUST861,Female,41,Clothing,3,30,90,2023,2,February,17,Friday,1,FALSE,Middle Age,February
+862,5/31/2023,CUST862,Male,28,Electronics,4,300,1200,2023,5,May,31,Wednesday,2,FALSE,Adult,May
+863,4/24/2023,CUST863,Female,30,Electronics,2,25,50,2023,4,April,24,Monday,2,FALSE,Adult,April
+864,7/27/2023,CUST864,Female,51,Electronics,1,500,500,2023,7,July,27,Thursday,3,FALSE,Middle Age,July
+865,12/21/2023,CUST865,Female,42,Clothing,1,300,300,2023,12,December,21,Thursday,4,FALSE,Middle Age,December
+866,5/5/2023,CUST866,Male,24,Electronics,1,50,50,2023,5,May,5,Friday,2,FALSE,Young Adult,May
+867,6/6/2023,CUST867,Male,21,Electronics,1,500,500,2023,6,June,6,Tuesday,2,FALSE,Young Adult,June
+868,12/6/2023,CUST868,Female,25,Electronics,1,300,300,2023,12,December,6,Wednesday,4,FALSE,Young Adult,December
+869,10/25/2023,CUST869,Male,37,Beauty,3,500,1500,2023,10,October,25,Wednesday,4,FALSE,Middle Age,October
+870,7/8/2023,CUST870,Female,46,Electronics,4,30,120,2023,7,July,8,Saturday,3,TRUE,Middle Age,July
+871,8/31/2023,CUST871,Male,62,Beauty,2,30,60,2023,8,August,31,Thursday,3,FALSE,Senior,August
+872,10/11/2023,CUST872,Female,63,Beauty,3,25,75,2023,10,October,11,Wednesday,4,FALSE,Senior,October
+873,9/29/2023,CUST873,Female,27,Electronics,4,25,100,2023,9,September,29,Friday,3,FALSE,Adult,September
+874,6/26/2023,CUST874,Male,60,Beauty,1,30,30,2023,6,June,26,Monday,2,FALSE,Senior,June
+875,8/6/2023,CUST875,Female,51,Electronics,4,500,2000,2023,8,August,6,Sunday,3,TRUE,Middle Age,August
+876,10/9/2023,CUST876,Male,43,Clothing,4,30,120,2023,10,October,9,Monday,4,FALSE,Middle Age,October
+877,6/19/2023,CUST877,Female,58,Clothing,1,25,25,2023,6,June,19,Monday,2,FALSE,Middle Age,June
+878,6/30/2023,CUST878,Female,20,Clothing,1,30,30,2023,6,June,30,Friday,2,FALSE,Young Adult,June
+879,12/26/2023,CUST879,Male,23,Clothing,1,30,30,2023,12,December,26,Tuesday,4,FALSE,Young Adult,December
+880,8/21/2023,CUST880,Male,22,Beauty,2,500,1000,2023,8,August,21,Monday,3,FALSE,Young Adult,August
+881,5/19/2023,CUST881,Male,22,Electronics,1,300,300,2023,5,May,19,Friday,2,FALSE,Young Adult,May
+882,6/6/2023,CUST882,Female,64,Electronics,2,25,50,2023,6,June,6,Tuesday,2,FALSE,Senior,June
+883,5/9/2023,CUST883,Male,40,Electronics,1,500,500,2023,5,May,9,Tuesday,2,FALSE,Middle Age,May
+884,4/29/2023,CUST884,Female,26,Clothing,2,30,60,2023,4,April,29,Saturday,2,TRUE,Adult,April
+885,3/3/2023,CUST885,Female,52,Clothing,4,30,120,2023,3,March,3,Friday,1,FALSE,Middle Age,March
+886,4/9/2023,CUST886,Male,37,Electronics,3,300,900,2023,4,April,9,Sunday,2,TRUE,Middle Age,April
+887,6/11/2023,CUST887,Male,59,Clothing,4,25,100,2023,6,June,11,Sunday,2,TRUE,Senior,June
+888,3/3/2023,CUST888,Female,52,Electronics,4,25,100,2023,3,March,3,Friday,1,FALSE,Middle Age,March
+889,10/2/2023,CUST889,Female,35,Electronics,1,50,50,2023,10,October,2,Monday,4,FALSE,Adult,October
+890,12/20/2023,CUST890,Male,34,Electronics,2,25,50,2023,12,December,20,Wednesday,4,FALSE,Adult,December
+891,4/5/2023,CUST891,Male,41,Electronics,3,300,900,2023,4,April,5,Wednesday,2,FALSE,Middle Age,April
+892,4/9/2023,CUST892,Male,20,Electronics,1,50,50,2023,4,April,9,Sunday,2,TRUE,Young Adult,April
+893,4/21/2023,CUST893,Male,49,Electronics,1,50,50,2023,4,April,21,Friday,2,FALSE,Middle Age,April
+894,9/5/2023,CUST894,Male,52,Electronics,1,30,30,2023,9,September,5,Tuesday,3,FALSE,Middle Age,September
+895,5/22/2023,CUST895,Female,55,Clothing,4,30,120,2023,5,May,22,Monday,2,FALSE,Middle Age,May
+896,10/29/2023,CUST896,Female,30,Electronics,2,25,50,2023,10,October,29,Sunday,4,TRUE,Adult,October
+897,9/26/2023,CUST897,Female,64,Electronics,2,50,100,2023,9,September,26,Tuesday,3,FALSE,Senior,September
+898,11/2/2023,CUST898,Female,42,Clothing,3,30,90,2023,11,November,2,Thursday,4,FALSE,Middle Age,November
+899,5/25/2023,CUST899,Male,26,Clothing,2,300,600,2023,5,May,25,Thursday,2,FALSE,Adult,May
+900,2/21/2023,CUST900,Male,21,Clothing,2,30,60,2023,2,February,21,Tuesday,1,FALSE,Young Adult,February
+901,4/10/2023,CUST901,Male,31,Electronics,1,30,30,2023,4,April,10,Monday,2,FALSE,Adult,April
+902,6/1/2023,CUST902,Female,54,Beauty,1,50,50,2023,6,June,1,Thursday,2,FALSE,Middle Age,June
+903,4/27/2023,CUST903,Female,51,Beauty,4,50,200,2023,4,April,27,Thursday,2,FALSE,Middle Age,April
+904,7/4/2023,CUST904,Male,28,Clothing,1,500,500,2023,7,July,4,Tuesday,3,FALSE,Adult,July
+905,4/2/2023,CUST905,Male,58,Beauty,1,300,300,2023,4,April,2,Sunday,2,TRUE,Middle Age,April
+906,6/4/2023,CUST906,Female,20,Clothing,1,50,50,2023,6,June,4,Sunday,2,TRUE,Young Adult,June
+907,1/8/2023,CUST907,Female,45,Electronics,1,25,25,2023,1,January,8,Sunday,1,TRUE,Middle Age,January
+908,12/29/2023,CUST908,Male,46,Beauty,4,300,1200,2023,12,December,29,Friday,4,FALSE,Middle Age,December
+909,10/1/2023,CUST909,Male,26,Electronics,1,300,300,2023,10,October,1,Sunday,4,TRUE,Adult,October
+910,3/6/2023,CUST910,Female,20,Beauty,3,50,150,2023,3,March,6,Monday,1,FALSE,Young Adult,March
+911,5/21/2023,CUST911,Male,42,Electronics,3,300,900,2023,5,May,21,Sunday,2,TRUE,Middle Age,May
+912,1/24/2023,CUST912,Male,51,Beauty,3,50,150,2023,1,January,24,Tuesday,1,FALSE,Middle Age,January
+913,1/28/2023,CUST913,Male,29,Electronics,3,30,90,2023,1,January,28,Saturday,1,TRUE,Adult,January
+914,10/11/2023,CUST914,Female,59,Electronics,1,500,500,2023,10,October,11,Wednesday,4,FALSE,Senior,October
+915,5/30/2023,CUST915,Female,26,Beauty,3,30,90,2023,5,May,30,Tuesday,2,FALSE,Adult,May
+916,12/24/2023,CUST916,Female,32,Electronics,1,50,50,2023,12,December,24,Sunday,4,TRUE,Adult,December
+917,3/6/2023,CUST917,Female,57,Electronics,4,50,200,2023,3,March,6,Monday,1,FALSE,Middle Age,March
+918,11/23/2023,CUST918,Female,42,Electronics,3,30,90,2023,11,November,23,Thursday,4,FALSE,Middle Age,November
+919,9/9/2023,CUST919,Female,22,Beauty,2,25,50,2023,9,September,9,Saturday,3,TRUE,Young Adult,September
+920,2/22/2023,CUST920,Female,28,Beauty,3,25,75,2023,2,February,22,Wednesday,1,FALSE,Adult,February
+921,1/7/2023,CUST921,Male,51,Electronics,3,25,75,2023,1,January,7,Saturday,1,TRUE,Middle Age,January
+922,10/21/2023,CUST922,Male,41,Electronics,1,50,50,2023,10,October,21,Saturday,4,TRUE,Middle Age,October
+923,5/26/2023,CUST923,Male,32,Beauty,3,300,900,2023,5,May,26,Friday,2,FALSE,Adult,May
+924,8/29/2023,CUST924,Male,55,Beauty,2,50,100,2023,8,August,29,Tuesday,3,FALSE,Middle Age,August
+925,9/3/2023,CUST925,Male,25,Electronics,1,300,300,2023,9,September,3,Sunday,3,TRUE,Young Adult,September
+926,8/14/2023,CUST926,Male,22,Electronics,1,30,30,2023,8,August,14,Monday,3,FALSE,Young Adult,August
+927,6/24/2023,CUST927,Male,43,Electronics,4,500,2000,2023,6,June,24,Saturday,2,TRUE,Middle Age,June
+928,4/5/2023,CUST928,Female,35,Clothing,4,300,1200,2023,4,April,5,Wednesday,2,FALSE,Adult,April
+929,1/27/2023,CUST929,Female,23,Beauty,3,25,75,2023,1,January,27,Friday,1,FALSE,Young Adult,January
+930,5/10/2023,CUST930,Male,54,Clothing,4,50,200,2023,5,May,10,Wednesday,2,FALSE,Middle Age,May
+931,9/2/2023,CUST931,Male,30,Beauty,4,30,120,2023,9,September,2,Saturday,3,TRUE,Adult,September
+932,2/28/2023,CUST932,Female,45,Beauty,4,25,100,2023,2,February,28,Tuesday,1,FALSE,Middle Age,February
+933,2/3/2023,CUST933,Male,22,Beauty,1,30,30,2023,2,February,3,Friday,1,FALSE,Young Adult,February
+934,7/25/2023,CUST934,Male,30,Beauty,1,500,500,2023,7,July,25,Tuesday,3,FALSE,Adult,July
+935,9/9/2023,CUST935,Female,34,Beauty,1,50,50,2023,9,September,9,Saturday,3,TRUE,Adult,September
+936,2/7/2023,CUST936,Male,57,Beauty,4,50,200,2023,2,February,7,Tuesday,1,FALSE,Middle Age,February
+937,10/23/2023,CUST937,Female,62,Beauty,1,500,500,2023,10,October,23,Monday,4,FALSE,Senior,October
+938,11/19/2023,CUST938,Male,49,Clothing,4,50,200,2023,11,November,19,Sunday,4,TRUE,Middle Age,November
+939,12/18/2023,CUST939,Female,46,Electronics,1,300,300,2023,12,December,18,Monday,4,FALSE,Middle Age,December
+940,1/28/2023,CUST940,Female,20,Electronics,1,30,30,2023,1,January,28,Saturday,1,TRUE,Young Adult,January
+941,3/19/2023,CUST941,Female,57,Clothing,2,25,50,2023,3,March,19,Sunday,1,TRUE,Middle Age,March
+942,3/18/2023,CUST942,Male,51,Clothing,3,500,1500,2023,3,March,18,Saturday,1,TRUE,Middle Age,March
+943,10/16/2023,CUST943,Female,57,Clothing,4,300,1200,2023,10,October,16,Monday,4,FALSE,Middle Age,October
+944,6/5/2023,CUST944,Male,44,Clothing,2,25,50,2023,6,June,5,Monday,2,FALSE,Middle Age,June
+945,2/13/2023,CUST945,Male,30,Beauty,1,25,25,2023,2,February,13,Monday,1,FALSE,Adult,February
+946,5/8/2023,CUST946,Male,62,Electronics,4,500,2000,2023,5,May,8,Monday,2,FALSE,Senior,May
+947,3/2/2023,CUST947,Male,50,Beauty,1,300,300,2023,3,March,2,Thursday,1,FALSE,Middle Age,March
+948,10/13/2023,CUST948,Female,23,Electronics,3,25,75,2023,10,October,13,Friday,4,FALSE,Young Adult,October
+949,8/2/2023,CUST949,Female,41,Electronics,2,25,50,2023,8,August,2,Wednesday,3,FALSE,Middle Age,August
+950,11/7/2023,CUST950,Male,36,Clothing,3,300,900,2023,11,November,7,Tuesday,4,FALSE,Middle Age,November
+951,11/2/2023,CUST951,Male,33,Beauty,2,50,100,2023,11,November,2,Thursday,4,FALSE,Adult,November
+952,11/13/2023,CUST952,Female,57,Clothing,1,25,25,2023,11,November,13,Monday,4,FALSE,Middle Age,November
+953,4/26/2023,CUST953,Male,45,Beauty,3,30,90,2023,4,April,26,Wednesday,2,FALSE,Middle Age,April
+954,9/25/2023,CUST954,Female,50,Electronics,3,300,900,2023,9,September,25,Monday,3,FALSE,Middle Age,September
+955,7/14/2023,CUST955,Male,58,Clothing,1,25,25,2023,7,July,14,Friday,3,FALSE,Middle Age,July
+956,8/19/2023,CUST956,Male,30,Clothing,3,500,1500,2023,8,August,19,Saturday,3,TRUE,Adult,August
+957,8/15/2023,CUST957,Female,60,Electronics,4,30,120,2023,8,August,15,Tuesday,3,FALSE,Senior,August
+958,6/2/2023,CUST958,Male,62,Electronics,2,25,50,2023,6,June,2,Friday,2,FALSE,Senior,June
+959,10/29/2023,CUST959,Female,42,Electronics,2,30,60,2023,10,October,29,Sunday,4,TRUE,Middle Age,October
+960,8/8/2023,CUST960,Male,59,Clothing,2,30,60,2023,8,August,8,Tuesday,3,FALSE,Senior,August
+961,6/6/2023,CUST961,Male,53,Beauty,4,50,200,2023,6,June,6,Tuesday,2,FALSE,Middle Age,June
+962,10/19/2023,CUST962,Male,44,Clothing,2,30,60,2023,10,October,19,Thursday,4,FALSE,Middle Age,October
+963,11/14/2023,CUST963,Female,55,Beauty,1,50,50,2023,11,November,14,Tuesday,4,FALSE,Middle Age,November
+964,1/31/2023,CUST964,Male,24,Clothing,3,300,900,2023,1,January,31,Tuesday,1,FALSE,Young Adult,January
+965,11/9/2023,CUST965,Male,22,Clothing,4,50,200,2023,11,November,9,Thursday,4,FALSE,Young Adult,November
+966,2/20/2023,CUST966,Male,60,Electronics,2,500,1000,2023,2,February,20,Monday,1,FALSE,Senior,February
+967,4/17/2023,CUST967,Male,62,Beauty,1,25,25,2023,4,April,17,Monday,2,FALSE,Senior,April
+968,11/17/2023,CUST968,Female,48,Clothing,3,300,900,2023,11,November,17,Friday,4,FALSE,Middle Age,November
+969,4/19/2023,CUST969,Female,40,Clothing,3,300,900,2023,4,April,19,Wednesday,2,FALSE,Middle Age,April
+970,5/16/2023,CUST970,Male,59,Electronics,4,500,2000,2023,5,May,16,Tuesday,2,FALSE,Senior,May
+971,12/5/2023,CUST971,Female,27,Electronics,4,50,200,2023,12,December,5,Tuesday,4,FALSE,Adult,December
+972,2/11/2023,CUST972,Male,49,Beauty,4,25,100,2023,2,February,11,Saturday,1,TRUE,Middle Age,February
+973,3/22/2023,CUST973,Male,60,Clothing,1,50,50,2023,3,March,22,Wednesday,1,FALSE,Senior,March
+974,5/3/2023,CUST974,Male,47,Beauty,1,30,30,2023,5,May,3,Wednesday,2,FALSE,Middle Age,May
+975,3/30/2023,CUST975,Female,56,Clothing,4,50,200,2023,3,March,30,Thursday,1,FALSE,Middle Age,March
+976,10/10/2023,CUST976,Female,48,Beauty,2,300,600,2023,10,October,10,Tuesday,4,FALSE,Middle Age,October
+977,2/8/2023,CUST977,Female,35,Electronics,3,25,75,2023,2,February,8,Wednesday,1,FALSE,Adult,February
+978,3/22/2023,CUST978,Female,53,Clothing,3,50,150,2023,3,March,22,Wednesday,1,FALSE,Middle Age,March
+979,1/2/2023,CUST979,Female,19,Beauty,1,25,25,2023,1,January,2,Monday,1,FALSE,Young Adult,January
+980,7/29/2023,CUST980,Female,31,Electronics,3,25,75,2023,7,July,29,Saturday,3,TRUE,Adult,July
+981,8/19/2023,CUST981,Female,30,Electronics,2,30,60,2023,8,August,19,Saturday,3,TRUE,Adult,August
+982,12/19/2023,CUST982,Female,46,Beauty,3,30,90,2023,12,December,19,Tuesday,4,FALSE,Middle Age,December
+983,11/1/2023,CUST983,Female,29,Clothing,1,300,300,2023,11,November,1,Wednesday,4,FALSE,Adult,November
+984,8/29/2023,CUST984,Male,56,Clothing,1,500,500,2023,8,August,29,Tuesday,3,FALSE,Middle Age,August
+985,5/30/2023,CUST985,Female,19,Electronics,2,25,50,2023,5,May,30,Tuesday,2,FALSE,Young Adult,May
+986,1/17/2023,CUST986,Female,49,Clothing,2,500,1000,2023,1,January,17,Tuesday,1,FALSE,Middle Age,January
+987,4/29/2023,CUST987,Female,30,Clothing,3,300,900,2023,4,April,29,Saturday,2,TRUE,Adult,April
+988,5/28/2023,CUST988,Female,63,Clothing,3,25,75,2023,5,May,28,Sunday,2,TRUE,Senior,May
+989,12/28/2023,CUST989,Female,44,Electronics,1,25,25,2023,12,December,28,Thursday,4,FALSE,Middle Age,December
+990,5/25/2023,CUST990,Female,58,Beauty,2,500,1000,2023,5,May,25,Thursday,2,FALSE,Middle Age,May
+991,12/26/2023,CUST991,Female,34,Clothing,2,50,100,2023,12,December,26,Tuesday,4,FALSE,Adult,December
+992,8/21/2023,CUST992,Female,57,Electronics,2,30,60,2023,8,August,21,Monday,3,FALSE,Middle Age,August
+993,2/6/2023,CUST993,Female,48,Electronics,3,50,150,2023,2,February,6,Monday,1,FALSE,Middle Age,February
+994,12/18/2023,CUST994,Female,51,Beauty,2,500,1000,2023,12,December,18,Monday,4,FALSE,Middle Age,December
+995,4/30/2023,CUST995,Female,41,Clothing,1,30,30,2023,4,April,30,Sunday,2,TRUE,Middle Age,April
+996,5/16/2023,CUST996,Male,62,Clothing,1,50,50,2023,5,May,16,Tuesday,2,FALSE,Senior,May
+997,11/17/2023,CUST997,Male,52,Beauty,3,30,90,2023,11,November,17,Friday,4,FALSE,Middle Age,November
+998,10/29/2023,CUST998,Female,23,Beauty,4,25,100,2023,10,October,29,Sunday,4,TRUE,Young Adult,October
+999,12/5/2023,CUST999,Female,36,Electronics,3,50,150,2023,12,December,5,Tuesday,4,FALSE,Middle Age,December
+1000,4/12/2023,CUST1000,Male,47,Electronics,4,30,120,2023,4,April,12,Wednesday,2,FALSE,Middle Age,April
