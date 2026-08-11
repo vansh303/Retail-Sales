@@ -1,0 +1,36 @@
+{
+  "name": "Retail Sales Portfolio",
+  "dataColors": [
+    "#1F3864",
+    "#4472C4",
+    "#ED7D31"
+  ],
+  "background": "#F5F6FA",
+  "foreground": "#262626",
+  "tableAccent": "#1F3864",
+  "good": "#2E7D32",
+  "bad": "#C62828",
+  "neutral": "#666666",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 20,
+      "color": "#1F3864"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#262626"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1F3864"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#262626"
+    }
+  }
+}

@@ -146,7 +146,6 @@ Retail-Sales-Analysis-Dashboard
 ├── Images
 ├── README.md
 ├── requirements.txt
-└── LICENSE
 ```
 
 ---
