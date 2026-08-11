@@ -115,9 +115,11 @@ Dashboard includes:
 
 ## 📈 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard inside the **Images** folder and update the path below.
+- Executive Overview
+![Retail Sales Dashboard - Executive Overview](Images/dashboard-overview.png)
 
-![Dashboard Preview](Images/dashboard_preview.png)
+- Demographics & Transaction Detail
+![Retail Sales Dashboard - Demographics & Transaction Detail](Images/dashboard-demographics.png)
 
 ---
 
